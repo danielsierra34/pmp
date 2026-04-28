@@ -1,0 +1,54 @@
+delivery.
+127. At the start of a project, the estimates for work effort, duration, and costs have a broad range. As the project
+evolves and more information becomes available, how is the range of estimates typically affected?
+A. The range of estimates becomes narrower.
+OB. The range of estimates becomes wider.
+OC. The range of estimates remains constant.
+OD. The range of estimates is not impacted by project evolution.
+Correct
+The range of estimates becomes narrower as the project evolves and more information becomes
+available, leading to increased accuracy and decreased uncertainty.
+128. A project manager is comparing two estimates for the same task: Estimate A is "2 days," and Estimate B is
+"sometime this week." Which statement is true regarding the precision and accuracy of these estimates?
+A. Estimate A has higher precision and higher accuracy than Estimate B.
+B. Estimate A has lower precision and higher accuracy than Estimate B.
+OC. Estimate A has higher precision and lower accuracy than Estimate B.
+D. Estimate A has lower precision and lower accuracy than Estimate B.
+Correct
+Estimate A ("2 days") has higher precision and higher accuracy than Estimate B ("sometime this
+week") because it provides a specific and quantifiable time frame.
+1/1 point
+1/1 point
+129. A project manager needs to shorten the project duration for the least incremental cost. Which schedule
+compression method should be applied?
+1/1 point
+A. Fast tracking
+OB. Resource leveling
+C. Milestone scheduling
+O D. Schedule crashing
+Correct
+"Schedule crashing" seeks to shorten the project duration for the least incremental cost, often by
+adding resources or working overtime.
+130. A project manager is exploring ways to expedite project work by performing activities in parallel, even though
+they are normally done sequentially. Which schedule compression method is being described in this
+scenario?
+OA. Resource leveling
+OB. Schedule crashing
+OC. Fast tracking
+O D. Critical path method
+Correct
+The described scenario of performing activities in parallel that are normally done sequentially aligns
+with "Fast tracking."
+131.A project manager is considering adding contingency time or funds to estimates to account for uncertainty.
+This strategy is especially useful for which type of project parameter?
+OA. Predictive parameters
+OB. Precise parameters
+C. Certain parameters
+OD. Uncertain parameters
+Correct
+Adding contingency time or funds to estimates account for uncertainty is useful for "uncertain
+parameters."
+132.A project manager is leading a project with an approach that involves high-level planning up front, followed
+1/1 point
+1/1 point
+1/1 point

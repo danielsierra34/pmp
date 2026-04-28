@@ -1,0 +1,56 @@
+10. In a challenging project environment, which function would involve advocating for the project, securing
+necessary resources, and addressing obstacles that hinder project progress?
+A. Applying expertise by seeking advice and contributing to learning.
+OB. Facilitating collaboration, resolving conflicts, and supporting change.
+OC. Providing resources and direction to advocate for the project.
+OD. Presenting objectives and feedback from customers and end users.
+Correct
+In a challenging project environment, the function of providing resources and direction involves
+advocating for the project, securing necessary resources, and addressing obstacles that hinder project
+progress. This role bridges the gap between senior management and the project team, ensuring
+smooth execution despite challenges.
+1/1 point
+11. A project manager is working on a project that involves handling sensitive customer data and proprietary
+information. Which aspect of the internal environment should the project manager consider to ensure the
+security and confidentiality of the data?
+O A. Organizational culture and governance
+B. Geographic distribution of facilities and resources
+C. Employee capability and expertise
+OD. Resource availability and collaboration agreements
+Correct
+Organizational culture, structure, and governance include aspects related to data protection, levels of
+confidentiality, and security measures. These aspects influence how security and safety measures are
+implemented within the organization.
+12. During a project review meeting, the project team recommends changes to the project scope based on
+emerging requirements. The governance function approves and supports these recommendations. What is
+the primary role of the governance function in this scenario?
+A. To manage the internal and external project environments.
+B. To monitor project progress and outcomes
+C. To facilitate innovation and identify opportunities.
+OD. To ensure compliance with organizational policies.
+Correct
+The governance function approves and supports recommendations made by the project team, and it
+monitors project progress in achieving desired outcomes. In this scenario, the governance function's
+role is primarily focused on monitoring project progress and outcomes.
+13. A project manager is working on a project where the organization has established a structured hierarchy,
+defined leadership style, and clear code of conduct. How might these aspects of the project environment
+influence project activities?
+A. They may impact the availability of resources and materials.
+B. They may create unfavorable impacts on project stakeholders.
+C. They may influence the selection of data assets.
+OD. They may provide a framework for organizational decision-making.
+Correct
+Organizational aspects such as hierarchy, leadership style, and code of conduct form part of the
+organizational culture and governance. These aspects provide a framework for decision-making
+within the organization and can influence project activities.
+1/1 point
+1/1 point
+1/1 point
+14. A project manager is working on a project to develop a new technological product for the global market.
+Which factor from the external environment should the project manager consider to ensure successful
+product adoption and customer satisfaction?
+OA. Academic research findings
+OB. Industry standards related to quality
+C. Physical working conditions
+OD. Currency exchange rates
+1/1 point

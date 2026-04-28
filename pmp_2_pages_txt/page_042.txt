@@ -1,0 +1,38 @@
+Correct
+c):Storming is the right choice because it involves conflicts and struggles as team members jockey for
+position and figure out how to work together.
+178. Your project team has reached a stage where members work well together, don't require constant oversight,
+and experience synergies. They have a high level of performance and operate smoothly. According to the
+Drexler/Sibbet Team Performance Model, which stage of team development has your project team achieved?
+OA. Trust Building
+OB. Implementation
+C. High Performance
+OD. Goal Clarification
+Correct
+c):High Performance is the right choice because it describes the stage where project team members
+work well together, don't need much oversight, and experience synergies.
+1/1 point
+179. Your project team has successfully completed its work, and members are now dispersing to work on other
+projects. Some team members express sadness about leaving the project team due to the relationships
+formed. According to the Tuckman Ladder model, which stage of team development is your project team
+currently experiencing?
+1/1 point
+OA. Forming
+B. Adjourning
+OC. Norming
+OD. Performing
+Correct
+b):Adjourning is the right choice because it represents the stage where the project team completes its
+work and disperses, possibly with feelings of sadness about leaving
+180. A project manager is facing a situation where the cause-and-effect relationship is not obvious, and there are
+no clear right answers. The project environment is constantly changing in response to various stimuli. What
+approach should the project manager adopt to address this complexity?
+OA. Apply known best practices and analyze the situation carefully.
+B. Probe the environment, sense the situation, and respond with action.
+OC. Take immediate action to stabilize the situation and then assess for stability.
+OD. Break the situation into smaller parts and categorize them.
+Correct
+b) in complex relationships, as described in the Cynefin Framework, the project manager should
+probe the environment, sense the situation, and respond with action. This approach allows for
+repeated cycles of probe-sense-respond as the complex environment evolves.
+1/1 point

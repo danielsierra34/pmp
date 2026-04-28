@@ -1,0 +1,56 @@
+attempted by the project team before. Which development approach is likely to be most suitable for this
+scenario?
+OA. Predictive approach
+OB. Adaptive approach
+C. Hybrid approach
+OD. Incremental approach
+Correct
+For an innovative project with high uncertainty, an "Adaptive approach" is likely the most suitable
+choice, allowing for iterative adjustments based on user feedback and learning.
+112.A project manager is leading a project where components are delivered at different times throughout the
+project, but not on a fixed schedule. Which type of delivery cadence is being used in this scenario?
+O A. Single delivery
+OB. Multiple deliveries
+OC. Periodic deliveries
+OD. Incremental deliveries
+Correct
+The project is using a "Multiple delivery" cadence, with separate components being delivered at
+different times throughout the project.
+113. A project manager is overseeing the development of a software application that involves producing a
+deliverable throughout a series of iterations within a predetermined time frame. Which development
+approach is being used for this scenario?
+O A. Predictive approach
+B. Adaptive approach
+OC. Iterative approach
+OD. Incremental approach
+Correct
+The project is using an "Iterative approach," where each iteration adds functionality within a
+predetermined time frame, leading to a deliverable that becomes more complete over time.
+1/1 point
+1/1 point
+114. A project manager is leading a project that heavily relies on stakeholder involvement throughout the
+development process, particularly from the product owner. Which development approach is likely to be most
+effective for this scenario?
+1/1 point
+O A. Predictive approach
+OB. Adaptive approach
+OC. Incremental approach
+OD. Hybrid approach
+Correct
+In scenarios where significant stakeholder involvement, especially from the product owner, is crucial,
+an "Adaptive approach" is most effective, as it encourages collaboration and iterative feedback.
+115. A project manager needs to deliver a partial product early, even if it's not fully finished, due to specific
+schedule constraints. Which development approach would be beneficial in this scenario?
+O A. Predictive approach
+OB. Adaptive approach
+C. Incremental approach
+OD. Hybrid approach
+Correct
+An "Incremental approach" is beneficial when there is a need to deliver partial products early, as it
+allows for the gradual addition of functionality over time.
+116. A project manager is working on a project with uncertain funding availability. Which development approach is
+likely to be advantageous in this scenario?
+OA. Predictive approach
+O B. Adaptive approach
+1/1 point
+1/1 point

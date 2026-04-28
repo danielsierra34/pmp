@@ -1,0 +1,56 @@
+also indicate stakeholder satisfaction. This information falls under the "Outcome: Projects contribute
+to business objectives and advancement of strategy" in the Measurement Performance Domain.
+60. As a project manager, you want to implement measures that predict changes or trends in the project and
+help reduce performance risk. Which type of key performance indicators (KPIs) should you focus on for this
+purpose?
+OA. Leading indicators
+B. Lagging indicators
+OC. Specific indicators
+OD. Meaningful indicators
+Correct
+Leading indicators. Leading indicators predict changes or trends in the project. They are used to
+identify potential performance variances before they cross the tolerance threshold, allowing the
+project team to take actions to reverse unfavourable trends and reduce performance risk.
+61. As a project manager, you want to implement measures that predict changes or trends in the project and
+help reduce performance risk. Which type of key performance indicators (KPIs) should you focus on for this
+purpose?
+A. Lagging indicators
+B. Leading indicators
+O C. Specific indicators
+OD. Meaningful indicators
+Correct
+Leading indicators predict changes or trends in the project. They are used to identify potential
+performance variances before they cross the tolerance threshold, allowing the project team to take
+actions to reverse unfavourable trends and reduce performance risk.
+62. As a project manager, you want to establish effective metrics for your project. Which characteristic of effective
+metrics ensures that measurements are specific and clearly define what to measure?
+O A. Meaningful
+OB. Achievable
+OC. Relevant
+OD. Specific
+Correct
+The provided information states that characteristics of effective metrics (or SMART criteria) include
+being specific as to what to measure. Specific measurements clearly define what to measure, such as
+the number of defects, the defects that have been fixed, or the average time it takes to fix defects.
+63. As a project manager, you are planning to establish a balanced set of metrics to provide a holistic picture of
+your project's performance and outcomes. Which category of metrics can provide insights into progress in
+achieving the technical solution?
+OA. Deliverable metrics
+OB. Deliver
+O C. Baseline performance
+OD. Resources
+Correct
+According to the provided information, one of the customary measures under deliverable metrics
+includes "technical performance measures." These quantifiable measures are used to ensure system
+components meet technical requirements and provide insights into progress in achieving the
+technical solution.
+64. As a project manager using an adaptive approach, you want to track the number of work items being worked
+on at any given time to manage project team workload effectively. Which delivery measurement can help you
+achieve this?
+O A. Lead time
+OB. Cycle time
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

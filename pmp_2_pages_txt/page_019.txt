@@ -1,0 +1,55 @@
+78. What type of chart can track the amount of work done compared to the expected work that should be done in
+a project?
+OA. Burnup chart
+B. Burndown chart
+OC. Kanban board
+OD. Task board
+Correct
+a) Explanation: A burnup chart is used to track the amount of work done compared to the expected
+work that should be done in a project. It provides a visual representation of progress over time,
+showing the accumulation of completed work. By comparing the actual progress against the planned
+progress, project teams can assess if they are on track to meet their objectives.
+79. What is the Hawthorne effect related to measurement?
+A. The tendency to focus on less important metrics rather than the most relevant ones.
+OB. The idea that one variable causes another due to their correlation.
+C. The influence of measurement on behavior, leading to altered results.
+OD. The act of measuring output to encourage a large volume of deliverables.
+Correct
+c) The Hawthorne effect is the phenomenon where the act of measuring something influences
+behavior, leading to altered results. When people are aware that they are being measured or
+observed, they may change their behavior, consciously or unconsciously, to match the desired
+outcomes or expectations.
+80. What is the purpose of an exception plan in project management?
+A. To measure project team velocity.
+OB. To present up-to-date information for the Planning Performance Domain.
+O C. To establish metrics and gather data for analysis.
+D. To outline agreed-upon actions when a threshold is crossed or forecasted.
+Correct
+An exception plan is a set of agreed-upon actions to be taken when a threshold is crossed or
+forecasted to be breached. It is used to address potential variances from the plan and to ensure that
+the project team is proactive in addressing any expected deviations. The plan helps the team respond
+promptly and effectively to changes or challenges that may affect project performance.
+81. A project manager is facing ambiguity in the project's schedule status due to unclear language in reports.
+Which method can help reduce conceptual ambiguity in project communication?
+OA. Reframing the project's objectives B) Implementing a fail-safe mechanism
+OB. Implementing a fail-safe mechanism.
+OC. Using prototypes to clarify requirements
+OD. Formally establishing common rules and definitions of terms
+Correct
+To reduce conceptual ambiguity in project communication, the project manager should formally
+establish common rules and definitions of terms used in reports and communication. This ensures
+that everyone involved in the project understands the terms and statements consistently, leading to
+effective communication and reduced ambiguity.
+82. A project manager is dealing with complexity in a project where there are many interconnected influences
+with diverse behaviors. To simplify the system and reduce the number of connected variables, which
+approach can be used?
+OA. Decoupling
+OB. Iteration
+OC. Escalation
+OD. Progressive elaboration
+Correct
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

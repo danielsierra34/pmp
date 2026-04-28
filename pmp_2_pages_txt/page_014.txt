@@ -1,0 +1,61 @@
+OD. Hiring more quality analysts during the later stages of the project.
+Correct
+Early inspection and review work to find quality issues as soon as possible. The provided information
+states that being proactive about quality work and early inspection and review work help avoid the
+high cost of change associated with fixing quality issues discovered later in the life cycle. It is more
+cost-efficient to fix design problems early between a few stakeholders rather than dealing with
+component issues impacting hundreds of units or recalling a product affecting thousands of
+customers.
+56. As a project manager, you are leading a project aimed at achieving a breakthrough in creating a new
+technology. The project involves deliberate investment in an uncertain outcome. What is the potential risk
+associated with this type of project?
+O A. Scope creep due to evolving project requirements.
+OB. Ineffective project management leading to negative outcomes.
+C. High probability of project failure due to suboptimal outcomes.
+OD. Uncertainty in delivering the project on time and within budget.
+Correct
+High probability of project failure due to suboptimal outcomes. The provided information states that
+in projects attempting to achieve a breakthrough, such as creating a completely new technology.
+there is a potential for suboptimal outcomes. This is because the project involves deliberate
+investment in an uncertain outcome, and multiple failures may occur before finding a successful
+formula. Therefore, there is a high probability of project failure or achieving suboptimal outcomes.
+57. As a project manager, you are working in the Measurement Performance Domain to assess project
+performance and maintain optimal performance. Which performance domain is the culmination of the work
+done in the Planning Performance Domain?
+OA. Development Approach and Life Cycle Performance Domain
+OB. Delivery Performance Domain
+OC. Project Work Performance Domain
+OD. Measurement Performance Domain
+Correct
+The provided information states that the Delivery Performance Domain is the culmination of the work
+done in the Planning Performance Domain. The delivery cadence is based on the way work is
+structured in the Development Approach and Life Cycle Performance Domain, and the Project Work
+Performance Domain enables the deliveries by establishing processes, managing resources, and
+performing project work for relevant stakeholders
+58. As a project manager, you want to ensure that project benefits are realized as planned. Which document or
+plan can be used to check if the project benefits are being achieved in the time frame they were planned?
+A. Project scope statement
+OB. Risk management plan
+C. Benefits realization plan and business case
+OD. Quality management plan
+Correct
+Benefits realization plan and business case. According to the provided information, the benefits
+realization plan, business case, and/or schedule can be used to check if the project benefits are being
+realized in the time frame they were planned. These documents outline the expected financial metrics
+and scheduled deliveries of the project and help ensure that the intended outcomes are achieved as
+planned.
+59. As a project manager, you want to assess whether project deliverables are on track to deliver planned
+benefits. In which section of the Measurement Performance Domain can you find information on how to
+check if stakeholders accept and are satisfied with project deliverables?
+A. Outcome: Projects contribute to business objectives and advancement of strategy
+OB. Outcome: Projects realize the outcomes they were initiated to deliver
+O c. Outcome: Project benefits are realized in the time frame in which they were planned
+OD. Outcome: The project team has a clear understanding of requirements
+Correct
+Outcome: Projects contribute to business objectives and advancement of strategy. The provided
+information states that to check if stakeholders accept and are satisfied with project deliverables,
+interviews, observation, and end user feedback can be used. Levels of complaints and returns can
+1/1 point
+1/1 point
+1/1 point
+1/1 point

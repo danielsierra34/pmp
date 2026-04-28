@@ -1,0 +1,56 @@
+is the key benefit of tailoring the project approach for such a project?
+O A. More efficient use of project resources
+OB. Better customer-oriented focus
+C. Enhanced commitment from project team members
+OD. Reduced project costs
+Correct
+c) One of the key benefits of tailoring the project approach for a critical project with a high number of
+stakeholders involved is that it leads to enhanced commitment from project team members who were
+involved in tailoring the approach. When team members are part of the decision-making process, they
+are more likely to be committed to the project's success.
+93. As a project manager, you are deciding on the life cycle and phases of the life cycle for your project. What is
+example of tailoring in this context?
+an
+A. Using predictive approaches only for the entire project.
+B. Combining predictive and iterative approaches for different project teams
+O C. Selecting the same development and delivery approach for all project aspects.
+OD. Employing iterative approaches exclusively for the project.
+Correct
+b) Combining predictive and iterative approaches for different project teams. An example of tailoring
+in the context of life cycle and development approach selection is combining predictive and iterative
+approaches for different project teams. For instance, a project to build a new data center may involve
+the use of predictive approaches for the physical building construction and finishing, while employing
+an iterative approach for understanding and establishing the computing capabilities required.
+94. As a project manager, you are tailoring the processes for your project. Which option represents a form of
+process tailoring?
+A. Using the same standard set of processes for all projects.
+B. Adding independent inspections for safety-critical projects.
+OC. Applying more processes than required for all projects.
+OD. Removing any modifications to project documents.
+Correct
+b). Adding independent inspections for safety-critical projects represents a form of process tailoring
+where specific portions or elements are added to bring required rigor and coverage based on the
+unique characteristics of safety-critical projects.
+95. As a project manager, you are tailoring engagement for the people involved in the project. What does
+empowerment involve in this context?
+A. Deferring responsibilities to the project team
+B. Assigning project team members based on project type
+OC. Evaluating the skills of the project leadership
+OD. Using an iterative development approach for the project
+Correct
+a) Deferring responsibilities to the project team. In the context of engagement tailoring.
+empowerment involves choosing which responsibilities and forms of local decision making should be
+deferred to the project team. It means empowering the project team with appropriate authority and
+autonomy to make decisions related to their work.
+96. Scenario: You have been appointed as the project manager for a new product development project at a
+startup company. The project involves creating an innovative mobile application with a highly dynamic and
+rapidly changing market. As you start the tailoring process, you need to determine the development approach
+that best suits the project's unique characteristics. What tool can help you evaluate whether a predictive,
+hybrid, or adaptive approach is more suitable for your project?
+A. Earned Value Management (EVM) analysis.
+OB. Stakeholder analysis and engagement plan.
+C. Project Complexity Assessment Tool (PCAT).
+1/1 point
+1/1 point
+1/1 point
+1/1 point

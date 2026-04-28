@@ -1,0 +1,55 @@
+51. As a project manager, you are dealing with "scope creep" in your project, where additional scope or
+requirements are accepted without adjusting the schedule, budget, or resource needs. Which methodology
+can be used to find the appropriate balance for investing in quality prevention and appraisal to avoid defects?
+OA. Cost-Benefit Analysis (CBA)
+B. Earned Value Management (EVM)
+OC. Risk Management
+D. Cost of Quality (COQ)
+Correct
+The Cost of Quality (COQ) methodology is used to find the appropriate balance for investing in
+quality prevention and appraisal to avoid defects. It identifies four categories of costs associated with
+quality: prevention, appraisal, internal failure, and external failure.
+52. You are managing a project that requires adherence to certain performance levels in the deliverables. Which
+aspect of quality is concerned with the performance levels that must be met in the project deliverables?
+A. Prevention costs
+OB. Appraisal costs
+OC. Internal failure costs
+OD. Quality requirements
+Correct
+Quality requirements are concerned with the performance levels that must be met in the project
+deliverables. They are reflected in the completion criteria, definition of done, statement of work, or
+requirements documentation.
+53. You are a project manager responsible for managing the cost of quality (COQ) in your project. Which category
+of COQ includes costs associated with measuring and monitoring activities related to quality to determine the
+degree of conformance to quality requirements?
+O A. Prevention
+B. Appraisal
+OC. Internal failure
+OD. External Failure
+Correct
+Appraisal. Appraisal costs are incurred to determine the degree of conformance to quality
+requirements. These costs are associated with activities like verification, quality audits, and supplier
+rating to measure and monitor quality
+54. As a project manager, you want to optimize the delivered value and minimize the costs associated with
+quality. What is a good investment to achieve this goal, according to the provided information?
+A. Early inspection and review work to find quality issues as soon as possible.
+OB. Increasing the budget for external failure costs to handle defects after customer deployment.
+OC. Focusing on prevention costs only to avoid quality problems entirely.
+OD. Implementing quality controls only during the final stages of the project.
+Correct
+Early inspection and review work to find quality issues as soon as possible. According to the provided
+information, to optimize delivered value and minimize costs associated with quality, early inspection
+and review work focused on finding quality issues as soon as possible are good investments. Trying to
+"test-quality-in" late in the development life cycle is likely to fail and result in higher costs due to high
+rates of scrap, rework, and ripple effects on downstream outputs and stakeholders.
+55. As a project manager, you understand that the later a defect is found, the more expensive it is to correct.
+Which approach helps counter the impacts of the cost of change curve and helps avoid the high cost of fixing
+quality issues discovered later in the project life cycle?
+O A. Implementing strict change control procedures.
+B. Conducting regular quality audits throughout the project.
+C. Early inspection and review work to find quality issues as soon as possible.
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

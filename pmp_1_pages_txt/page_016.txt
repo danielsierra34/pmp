@@ -1,0 +1,61 @@
+should the project manager consider when formulating an effective risk response?
+A. Selecting a risk response that aligns with the project's budget constraints.
+B. Choosing a risk response that focuses solely on addressing the risk's potential negative impact.
+C. Ensuring the risk response is cost-effective and timely, regardless of stakeholder agreement.
+OD. Developing a risk response that is realistic within the project context and agreed to by relevant
+stakeholders.
+Correct
+The project manager should develop a risk response that is realistic within the project context and
+agreed to by relevant stakeholders. This aligns with the information provided in the excerpt, which
+highlights the importance of realistic and agreed-upon risk responses that consider the project's
+unique conditions.
+69. A project manager is leading the development of a new software application. The project team has identified
+a potential risk related to a shortage of skilled developers available to work on the project. This risk has the
+potential to impact the project's timeline and successful delivery. What should the project manager consider
+when formulating a risk response for this identified risk?
+A. Delegating responsibility for the risk response the team member with the least amount of work.
+B. Implementing a risk response that focuses solely on addressing the risk's impact on the project
+timeline.
+O C. Ensuring the risk response appropriate for the significance of the risk and agreed to by relevant
+stakeholders.
+◇ D. Selecting a risk response that is independent of the project's budget constraints.
+Correct
+The project manager should ensure the risk response is appropriate for the significance of the risk and
+agreed to by relevant stakeholders. This aligns with the information provided in the excerpt, which
+emphasizes the importance of realistic and agreed-upon risk responses that consider the unique
+context of the project.
+1/1 point
+70. A project manager is leading a software development project that has encountered unexpected technical
+challenges, causing delays in the project schedule. The project team is looking for ways to recover from these
+setbacks and continue making progress toward delivering value. What characteristic should the project
+manager encourage in the team's approach to address this situation?
+OD. Limiting exploration of alternative solutions to the original deliverables.
+OB. Deferring decision making until all technical challenges are fully resolved.
+C. Focusing on short feedback loops and continuous learning to adapt quickly.
+O A. Maintaining a rigid adherence to the initial project plan and commitments.
+Correct
+The project manager should encourage the team to focus on short feedback loops and continuous
+learning to adapt quickly. This aligns with the information provided in the excerpt, which emphasizes
+the importance of adaptability and resiliency in responding to setbacks and changes.
+1/1 point
+71. A project manager is leading a construction project that is facing unforeseen weather-related delays. The
+project team is seeking ways to recover and minimise the impact of these delays on the project timeline. What
+characteristics should the project manager consider when formulating a strategy to address the setbacks?
+A. Ignoring the weather-related delays and sticking to the original project plan.
+B. Focusing solely on recovering lost time without considering other potential impacts.
+OC. Building adaptability and resiliency into the project team's approach to navigate changes and
+setbacks.
+◇ D. Relying solely on management support to address the weather-related challenges.
+Correct
+The project manager should consider building adaptability and resiliency into the project team's
+approach to navigate changes and setbacks. This aligns with the information provided in the excerpt,
+which emphasizes the importance of adaptability and resiliency in addressing unexpected challenges.
+1/1 point
+72. A project manager is leading the development of a new product for a competitive market. During the course
+of the project, a new technology emerges that could significantly enhance the product's features. What
+should the project manager do in response to this emerging opportunity?
+OA. Ignore the new technology to avoid scope creep.
+OB. Immediately implement the new technology without considering its potential impact.
+C. Formulate a case to the relevant stakeholders for capturing and leveraging the emerging opportunity.
+Wait until proiect closure to accace whether the new technolomu should be incorporated
+1/1 point

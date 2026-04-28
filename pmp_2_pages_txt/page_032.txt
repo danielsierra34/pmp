@@ -1,0 +1,77 @@
+130. You're serving as a project manager and find yourself in a situation where your project team members hold
+diverse perspectives and opinions regarding a crucial project decision. How would you apply the
+collaborating approach from the conflict model to facilitate a constructive discussion and reach a consensus
+among the team members?
+A. Make the decision on your own and inform the team of your choice to avoid prolonged discussions
+OB. Mediate the discussion between conflicting team members and impose a compromise to quickly
+resolve the conflict
+C. Initiate a collaborative meeting where team members openly share their viewpoints, actively listen
+to each other, and work together to find a mutually agreeable solution.
+OD. Escalate the conflict to senior management and seek their intervention to make the final decision for
+the team.
+Correct
+c) Initiate a collaborative meeting where team members openly share their viewpoints, actively listen
+to each other, and work together to find a mutually agreeable solution. Explanation: The right
+approach is to facilitate a collaborative discussion among team members to explore different
+perspectives and reach a consensus. The collaborating approach encourages open communication,
+active listening, and cooperation, allowing the team to leverage the collective expertise and insights
+of its members to arrive at a solution that everyone can support.
+131. You're overseeing a project with conflicting stakeholder interests and limited resources. How would you use
+the Salience Model proposed by Ronald K. Mitchell, Bradley R. Agle, and Donna J. Wood to identify and
+prioritize stakeholders for effective engagement and communication? Provide an example of how you would
+apply at least two of the variables in the Salience Model to assess the importance of different stakeholders in
+your project
+O A. Prioritize stakeholders solely based on their power and influence within the organization, regardless
+of their legitimacy or urgency.
+B. Focus only on stakeholders with urgent claims on the project, neglecting their power and legitimacy.
+C. Evaluate stakeholder salience based on their power, legitimacy, and urgency, ensuring a balanced
+approach to engagement and communication.
+OD. Engage stakeholders primarily based on their legitimacy, even if they have limited power and
+urgency.
+Correct
+c):Evaluate stakeholder salience based on their power, legitimacy, and urgency, ensuring a balanced
+approach to engagement and communication. Explanation: The right approach is to consider all three
+variables of power, legitimacy, and urgency to identify and prioritize stakeholders. This helps project
+managers assess the importance of each stakeholder group comprehensively, ensuring that
+engagement efforts are strategic, well-informed, and inclusive of various perspectives and interests.
+1/1 point
+1/1 point
+132. You're managing a project where a conflict has arisen between two key team members. One team member
+has a higher position in the organization, while the other is an expert in the project domain. How would you
+apply the conflict resolution styles of "smoothing/accommodating" and "forcing" to address the conflict and
+maintain a positive project environment? Provide an example of how you would use each style to manage the
+conflict?
+O A. Choose the "forcing" style to quickly resolve the conflict without considering the relationship
+between the parties
+1/1 point
+B. Apply the "smoothing/accommodating" style to prioritize the relationship and maintain harmony,
+even if it means temporarily setting aside the conflict.
+OC. Use the "forcing" style to ensure that the party with higher authority prevails and enforces a
+decision.
+OD. Implement the "smoothing/accommodating" style when the conflict involves technical expertise,
+allowing the expert to lead the resolution.
+Correct
+b)Apply the "smoothing/accommodating" style to prioritize the relationship and maintain harmony,
+even if it means temporarily setting aside the conflict. Explanation: In a situation where maintaining
+the overall relationship and harmony is important, using the "smoothing/accommodating" style can
+help address the conflict while preserving a positive project environment. This style is suitable when
+the parties involved have different levels of authority or expertise.
+133. You're in a negotiation with a key supplier for your project, and both parties have specific requirements and
+expectations. How would you apply Stephen Covey's "Think Win-Win" principle to achieve a mutually
+beneficial outcome in the negotiation process? Provide an example of how you would use this principle to
+create a win-win scenario for both your project and the supplier.
+O A. Pursue a "win-lose" outcome to ensure your project's needs are met, regardless of the supplier's
+interests.
+B. Adopt a "lose-lose" approach if the negotiation becomes challenging, prioritizing your project's
+objectives over collaboration.
+C. Strive for a "win-win" outcome where both parties collaborate to find solutions that meet each
+other's requirements.
+OD. Choose a "win-lose" approach to assert your project's position and maintain control over the
+negotiation process.
+Correct
+c)Strive for a "win-win" outcome where both parties collaborate to find solutions that meet each
+other's requirements. Explanation: The "Think Win-Win" principle encourages a collaborative
+approach to negotiation, aiming for outcomes where both parties benefit. Prioritizing collaboration
+1/1 point
+"
+"

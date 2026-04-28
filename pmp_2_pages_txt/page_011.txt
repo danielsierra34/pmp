@@ -1,0 +1,59 @@
+Correct
+Lean production uses techniques such as value stream mapping to measure the ratio of value-adding
+activities and non-value-adding activities. This helps identify and remove waste from the production
+system, optimizing efficiency.
+42. You are leading a project that has encountered a reduction in the budget. To deliver the end result, the
+project team needs to make trade-offs. What is an essential aspect of this balancing activity?
+A. Meeting with the customer to present alternatives.
+OB. Increasing the scope to compensate for the reduced budget.
+OC. Seeking sponsor approval for any budget adjustments.
+OD. Prioritizing schedule over quality requirements.
+Correct
+Meeting with the customer to present alternatives. When facing a reduction in the budget, the project
+team may need to meet with the customer, sponsor, or product owner to present alternative options
+and their implications. This allows stakeholders to make informed decisions about trade-offs and
+potential variances.
+43. You are managing a small project, and the project team is reviewing process conformance to maximize
+benefits. What is a key consideration for the project team while reviewing process conformance?
+A. Satisfying governance needs of the process.
+B. Allocating more time to review process conformance.
+O C. Identifying all non-value-adding activities.
+OD. Implementing critical projects with more process.
+Correct
+Satisfying governance needs of the process. While reviewing process conformance, the project team
+needs to balance the benefits of the review with the time spent on delivering project outcomes.
+Satisfying governance needs of the process ensures that the review is appropriate without becoming
+inefficient.
+44. As a project manager, you are facing a situation where a new stakeholder requirement has emerged,
+requiring an expansion of the project's schedule and budget. What should be your immediate response?
+A. Request approval from the change control board.
+B. Inform the project team of the new requirement and its implications.
+OC. Make trade-offs to accommodate the new requirement.
+OD. Update the project's risk management plan.
+Correct
+Inform the project team of the new requirement and its implications. When a new stakeholder
+requirement emerges, the immediate response should be to inform the project team about the new
+requirement and its implications. This allows the team to understand the changes and potential
+impacts on the project
+45. As a project manager, you are evaluating the progress toward delivery goals for your project team. What is
+your primary goal when maintaining the project team's focus and attention?
+OA. Balancing the workload to avoid overburdening team members.
+B. Maximizing business and stakeholder value throughout the project.
+OC. Prioritizing short-term projections over long-term progress.
+OD. Identifying potential issues, delays, and cost overruns.
+Correct
+Maximizing business and stakeholder value throughout the project. The primary goal of maintaining
+the project team's focus and attention is to maximize the overall delivered value throughout the
+project. This involves balancing production (delivering value) and protecting the project team's
+production capability (project team health and satisfaction) to ensure that business and stakeholder
+value are maximized.
+46. You are managing a project, and you notice that there is an abundance of ad hoc requests for information and
+communication. What does this indicate about the project's communication planning?
+A. The communication planning was sufficient to meet stakeholder needs.
+1/1 point
+1/1 point
+"
+1/1 point
+1/1 point
+1/1 point
+"

@@ -1,0 +1,62 @@
+serves as a powerful motivational tool, inspiring passion and meaning for the team, and helps them
+stay focused on the end goal while making local decisions.
+20. As a project manager, you are working with a team that is facing complex challenges and ambiguous
+situations. What type of thinking should you encourage among the team members to help them identify root
+causes, resolve issues, and make well-informed decisions?
+A. Encourage reactive and impulsive thinking to adapt quickly to changes.
+B. Foster disciplined, rational, evidence-based thinking with an open mind and objective analysis
+O C. Discourage any reflection on thinking processes as it can slow down decision-making.
+O D. Promote solely analytical thinking without considering emotional intelligence.
+Correct
+In complex and ambiguous situations, fostering disciplined, rational, evidence-based thinking with an
+open mind and objective analysis is crucial. This approach, known as critical thinking, enables team
+members to recognize bias, identify root causes of problems, consider challenging issues, and
+evaluate arguments and perspectives effectively. It involves combining rational and logical reasoning
+with conceptual imagination and insight, encouraging a comprehensive understanding of the
+situation.
+21. You are the project manager of a software development project with a diverse project team. How can you
+effectively motivate team members to perform at their best?
+O A. Rely solely on extrinsic motivation by offering financial bonuses for high performance.
+OB. Set strict targets and impose penalties for underperformance to motivate team members.
+OC. Understand individual team members' dominant motivators and tailor motivation methods
+accordingly.
+OD. Utilize a single motivator, such as the project's success, to inspire all team members equally.
+Correct
+Effectively motivating a diverse project team requires understanding the individual team members'
+dominant motivators. Motivation can be intrinsic (related to the work itself) or extrinsic (associated
+with external rewards). Tailoring motivation methods based on individual preferences, such as
+providing challenging goals for those motivated by achievement or fostering relatedness for team
+members motivated by social connections, helps elicit the best individual and project team
+performance.
+22. As a project manager, you notice that the project team members are experiencing conflicts due to differing
+opinions on the project's best approach. How can you effectively manage and resolve these conflicts to
+improve decision-making and maintain a constructive work environment?
+OA. Avoid addressing conflicts as they can disrupt project work and cause anxiety among team
+members
+B. Encourage personal attacks and focus on individuals during conflict resolution to clarify issues.
+C. Establish a safe environment for open and respectful communication, focusing on resolving the
+situation rather than blaming individuals.
+OD. Address conflicts by directing team members to follow the decision made by the most senior
+stakeholders.
+Correct
+Establish a safe environment for open and respectful communication, focusing on resolving the
+situation rather than blaming individuals. Effective conflict management involves establishing a safe
+environment for open and respectful communication. Encouraging team members to focus on
+resolving the situation.
+23. You are managing a large project that involves developing a complex software system. The project sponsor
+has emphasized the need for frequent customer feedback and quick adaptability to changes. Which delivery
+cadence would be most suitable for this project?
+O A. Single delivery at the end of the project.
+O B. Multiple deliveries of components at different times throughout the project.
+C. Periodic deliveries on a fixed schedule, such as monthly or bimonthly.
+OD. A hybrid approach with both single and periodic deliveries.
+Correct
+For a project that requires frequent customer feedback and adaptability to changes, periodic
+deliveries on a fixed schedule would be the most suitable delivery cadence. This approach allows for
+incremental progress and enables the project team to gather feedback from stakeholders regularly,
+ensuring that the project remains aligned with customer needs and can quickly adapt to changing
+requirements.
+1/1 point
+1/1 point
+1/1 point
+1/1 point

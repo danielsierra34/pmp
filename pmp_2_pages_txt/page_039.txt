@@ -1,0 +1,56 @@
+Correct
+c) A product breakdown structure reflects a product's components and deliverables, which may not
+specifically address the "Dev Approach and Life Cycle" domain.
+163. You're managing a project and want to record factors considered true or certain without proof, as well as
+factors that limit project options. Which artifact would you use to record such information throughout the
+project?
+A. Assumption log
+OB. Change log
+OC. Risk register
+OD. Stakeholder register
+Correct
+a):An assumption log records factors considered true, real, or certain without proof or demonstration,
+which aligns with the need to record such information throughout the project.Incorrect
+164. You want to compare actual performance to the approved estimate for the project's scope, schedule, and
+cost. Which type of baseline would you use for this purpose?
+O A. Budge
+B. Performance measurement baseline
+O c. Project schedule
+O D. Scope baseline
+Correct
+b): The performance measurement baseline includes integrated scope, schedule, and cost baselines,
+making it suitable for comparing actual performance against the approved estimates.
+165. As a project manager, you need to estimate the duration and cost of a project activity based on historical data
+from a similar activity in a past project. Which estimating method should you use to accomplish this?
+OA. Affinity Grouping
+B. Parametric Estimating
+OC. Relative Estimating
+D. Analogous Estimating
+Correct
+d) Analogous Estimating is the right choice because it specifically uses historical data from similar
+activities or projects to estimate the duration or cost of the current activity.
+1/1 point
+1/1 point
+1/1 point
+166. You want to identify and share knowledge gained during a project phase to improve the project team's
+performance. Which type of meeting should you conduct for this purpose?
+1/1 point
+A. Daily Standup
+OB. Iteration Review
+OC. Lessons Learned Meeting
+OD. Risk Review
+Correct
+c):Lessons Learned Meeting is the right choice because it focuses on identifying and sharing
+knowledge gained during a project phase, with a focus on improving project team performance.
+167. You need to create a detailed plan for an upcoming iteration in your Agile project, clarifying backlog items,
+acceptance criteria, and work effort. Which type of meeting should you conduct for this purpose?
+A. Iteration Planning
+O B. Project Closeout
+OC. Release Planning
+OD. Planning Meeting
+Correct
+a):Iteration Planning is the right choice because it involves clarifying the details of backlog items,
+acceptance criteria, and work effort required to meet an upcoming iteration commitment.
+"
+"
+1/1 point

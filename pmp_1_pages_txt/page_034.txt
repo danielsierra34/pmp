@@ -1,0 +1,36 @@
+OB. Request for proposal
+OC. Request for quote
+D. Request for vendor qualifications
+Correct
+B The excerpt describes that a "Request for proposal" bid document is used for complex or
+complicated scope where the buyer is looking for the vendor to provide a solution.
+150. A project manager is selecting a vendor and negotiating terms and conditions for a project. What should the
+project manager consider when choosing the best vendor?
+O A. Experience and references only
+OB. Price and timely delivery only
+OC. Experience, references, and timely delivery
+OD. Price, experience, references, and timely delivery
+Correct
+D The excerpt mentions that choosing the best vendor often involves evaluating criteria such as
+experience, references, price, and timely delivery.
+151. A project manager is leading an adaptive project and needs to manage new work being added to the product
+backlog. What role does the project manager play in this situation?
+OA. Prioritizing the product backlog
+OB. Managing the procurement process
+OC. Approving all new work requests
+OD. Minimizing scope changes
+Correct
+A In an adaptive project, the product owner (not the project manager) prioritizes the product
+backlog, so option A is the closest role to the project manager's involvement.
+152. A project team has developed a faster method for accomplishing a specific task during the project. What type
+of knowledge is this most likely to be?
+OA. Explicit knowledge
+OB. Tacit knowledge
+OC. Experience-based knowledge
+OD. Theoretical knowledge
+Correct
+A The excerpt mentions that explicit knowledge can be readily codified using words, pictures, or
+numbers, and the steps to a new process are an example of explicit knowledge.
+1/1 point
+1/1 point
+1/1 point

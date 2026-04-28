@@ -1,0 +1,41 @@
+by more detailed planning after the design phase. Which development approach is likely being used for this
+project?
+OA. Adaptive approach
+OB. Predictive approach
+C. Incremental approach
+OD. Hybrid approach
+Correct
+A "Predictive approach" involves high-level planning up front and progressively elaborating with
+more detail throughout the project, aligning with the described scenario.
+133. A project manager is distinguishing between project scope and product scope. Which statement accurately
+describes the difference between the two?
+OA. Project scope defines the work performed, while product scope characterizes the work to deliver the
+specified features and functions.
+B. Project scope characterizes the work to deliver the specified features and functions, while product
+scope defines the work performed.
+OC. Project scope and product scope are synonymous terms and refer to the same aspects of the project.
+OD. Project scope encompasses the work performed and the specified features and functions, while
+product scope focuses on the project's stakeholders.
+Correct
+A Project scope defines the work performed, while product scope characterizes the work to deliver
+the specified features and functions, as described in option A.
+134. A project manager is preparing for potential changes throughout the project. Which of the following
+processes is specifically designed to address changes to the project's scope, schedule, and budget?
+OA. Procurement management
+O B. Change control process
+OC. Physical resource management
+OD. Stakeholder engagement
+Correct
+B The change control process is designed to manage and address changes to the project's scope,
+schedule, and budget.
+135. A project manager is responsible for establishing processes, managing physical resources, and creating a
+learning environment within the project team. Which performance domain aligns with these responsibilities?
+A. Stakeholder Performance Domain
+OB. Development Approach and Life Cycle Performance Domain
+OC. Planning Performance Domain
+OD. Project Work Performance Domain
+Correct
+D. The decorintion aliane with the manancihilitiae of the Drainet Wark Darformance Domain which
+1/1 point
+1/1 point
+1/1 point

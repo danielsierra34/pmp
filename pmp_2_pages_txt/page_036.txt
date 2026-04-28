@@ -1,0 +1,54 @@
+D. Project charter
+Correct
+d) A project charter is a document issued by the project initiator or sponsor that formally authorizes
+the existence of the project, provides the project manager with authority, and allocates organizational
+resources to project activities.
+148. Your project team is involved in a lean start-up situation and needs a concise visual summary that describes
+the value proposition, infrastructure, customers, and finances of the project. Which strategy artifact would
+you use in this scenario?
+OA. Business case
+B. Business model canvas
+OC. Project vision statement
+OD. Roadmap
+Correct
+b): A business model canvas is a one-page visual summary that describes the value proposition,
+infrastructure, customers, and finances of the project. It is often used in lean start-up situations.
+149. Your project team needs a document that provides a high-level overview of the goals, deliverables, and
+processes for the project. Which strategy artifact would you create to fulfill this requirement?
+O A. Business case
+OB. Project charter
+C. Project brief
+OD. Roadmap
+Correct
+c):A project brief is a document that provides a high-level overview of the goals, deliverables, and
+processes for the project. It offers a concise summary of key project aspects.
+150. Your project team is looking to inspire the project members and provide them with a concise, high-level
+description of the project's purpose. Which strategy artifact would you create for this purpose?
+O A. Business case
+OB. Business model canvas
+OC. Project vision statement
+OD. Roadmap
+Correct
+c) A project vision statement is a concise, high-level description of the project's purpose, which is
+designed to inspire the project team and provide them with a clear sense of direction.
+151. You've been managing a project for a while and want to record and monitor any current conditions or
+situations that may impact your project objectives. Which artifact would you use to keep track of active issues
+assigned to responsible parties for follow-up and resolution?
+OA. Assumption log
+○ B. Backlog
+OC. Change log
+D. Issue log
+Correct
+d)An issue log is used to record and monitor active issues, which are current conditions or situations
+that may impact project objectives. These issues are assigned to responsible parties for follow-up and
+resolution.
+152. As a project manager, you need to describe how costs will be planned, structured, and controlled for your
+project. Which plan should you develop to address this aspect?
+OA. Change control plan
+OB. Communications management plan
+OC. Cost management plan
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

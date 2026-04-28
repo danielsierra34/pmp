@@ -1,0 +1,37 @@
+Correct
+C The scenario describes a relationship based on best practices and project preferences, which aligns
+with a "discretionary dependency."
+143. A project manager is planning communication for a project and considering the best way to provide
+information to stakeholders. Which factor should be considered when determining the best communication
+method?
+OA. The project's budget
+OB. The project team's preferences
+OC. The stakeholder's communication style
+OD. The project's physical resources
+Correct
+C When planning communication, considering the stakeholder's communication style is important to
+determine the best way to provide information.
+144. A project manager s leading a large critical project and needs to optimize the project processes to suit the
+project's needs. Which of the following methods can be used to optimize processes for the project
+environment?
+OA. Implementing retrospectives or lessons learned
+B. Developing a communication plan
+◇ C. Focusing on maximizing stakeholder engagement
+OD. Utilizing lean production methods
+Correct
+D The excerpt mentions that process tailoring can include optimizing processes using methods like
+lean production, which involves techniques such as value stream mapping to identify and remove
+waste from production systems.
+1/1 point
+1/1 point
+145. A project manager is facing a situation where a new stakeholder requirement may impact the schedule and
+budget. What ongoing activity is required to address shifting constraints while maintaining stakeholder
+satisfaction?
+1/1 point
+OA. Conducting process audits
+OB. Revising the procurement strategy
+OC. Modifying the project management communications plan
+OD. Balancing and making trade-offs among constraints
+Correct
+D The excerpt discusses the need for project managers to balance shifting constraints, make trade-
+offs, and maintain stakeholder satisfaction throughout the project.

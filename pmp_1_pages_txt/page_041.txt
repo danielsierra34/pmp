@@ -1,0 +1,10 @@
+are sufficient to justify the costs invested in the project.
+180. What is a Net Promoter Score (NPS) used to measure?
+O A. Stakeholder satisfaction
+B. Project team morale
+C. Resource utilization
+OD. Throughput analysis
+Correct
+NPS gauges the satisfaction and loyalty of stakeholders, such as customers or clients, and their
+likelihood of recommending a product, service, or project to others.
+1/1 point

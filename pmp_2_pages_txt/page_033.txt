@@ -1,0 +1,68 @@
+and mutual understanding can lead to a more sustainable and positive relationship between the
+project and the supplie
+134. You're leading a project that requires careful planning to mitigate risks and uncertainties. How would you use
+Barry Boehm's model to determine the optimum amount of planning for your project and strike a balance
+between overplanning and under planning? Provide an example of how you would apply this model to find
+the "sweet spot" for your project.
+1/1 point
+OA. Opt for extensive planning to eliminate all uncertainties and potential risks, regardless of the time
+and effort involved.
+B. Choose minimal planning to save time and resources, even if it means facing increased uncertainties
+during project execution.
+C. Apply the model to identify the point where planning efforts provide significant risk reduction
+without excessive delay.
+OD. Select a fixed planning approach that aligns with industry standards, irrespective of the specific
+project's needs.
+Correct
+c) Barry Boehm's model aims to find the "sweet spot" of planning that balances risk reduction with
+project delays. It aligns with this approach, optimizing planning efforts to achieve an appropriate level
+of risk mitigation while minimizing unnecessary delays.
+135. Your project involves multiple stakeholders with varying levels of influence, legitimacy, and urgency. How
+would you apply the Salience Model proposed by Mitchell, Agle, and Wood to identify and engage key
+stakeholders effectively? Provide an example of how you would use this model to prioritize stakeholder
+engagement based on the three variables.
+A. Focus exclusively on stakeholders with the highest power to influence the project, regardless of their
+legitimacy or urgency
+OB. Prioritize stakeholders based solely on their urgency, as their immediate needs are critical for project
+success.
+C. Apply the Salience Model by considering the combination of power, legitimacy, and urgency to
+determine the most influential stakeholders.
+OD. Engage stakeholders with the highest legitimacy, even if they have limited power or urgency in the
+project.
+Correct
+c)Apply the Salience Model by considering the combination of power, legitimacy, and urgency to
+determine the most influential stakeholders.The Salience Model considers all three variables-power,
+legitimacy, and urgency-to prioritize stakeholder engagement effectively. It aligns with this
+comprehensive approach, allowing for a well-rounded assessment of key stakeholders.
+1/1 point
+136. You are a project manager in a software development company. Your team has proposed a new project to
+develop a cutting-edge mobile application that aims to streamline customer interactions and enhance user
+experience. The project requires a significant investment in terms of time, resources, and funding. To justify
+the project's approval, you need to use the internal rate of return (IRR) and return on investment (ROI)
+analysis methods to demonstrate its financial viability.
+1/1 point
+A. Focus exclusively on the payback period to determine the feasibility of the project.
+OB. Calculate the net present value (NPV) to evaluate the future value of expected benefits.
+C. Use IRR to assess the annual yield of the project investment, considering initial and ongoing costs.
+OD. Rely on the cost-benefit analysis to determine the costs and benefits of the project.
+Correct
+c) IRR provides insights into the projected annual yield of a project investment, incorporating both
+initial and ongoing costs. This helps assess the attractiveness of the project's financial return.
+137. You're analyzing the cost of quality for your project to assess the investment in preventing nonconformance,
+appraisal, and failure. How would you use the cost of quality analysis method to ensure that quality-related
+costs are appropriately managed throughout the project lifecycle?
+1/1 point
+OA. Focus solely on preventing nonconformance and avoid appraisal costs to reduce project expenses.
+B. Emphasize failure costs to identify potential issues and take corrective actions as needed.
+OC. Consider the total cost incurred over the product's life by investment in preventing, appraising, and
+addressing nonconformance.
+OD. Prioritize nonconformance costs and overlook the impact of appraisal and failure costs on project
+outcomes.
+Correct
+c): The cost of quality analysis method considers all costs associated with preventing
+nonconformance, appraising quality, and addressing failures over the product's life. This approach
+ensures a comprehensive understanding of quality-related costs.
+138. Your project involves evaluating various risks and uncertainties using decision tree analysis. How would you
+apply decision tree analysis to assess the implications of multiple options and make informed decisions in the
+presence of uncertainty?
+1/1 point

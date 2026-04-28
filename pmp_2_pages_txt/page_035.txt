@@ -1,0 +1,63 @@
+Correct
+b)Story point estimating involves assigning relative points of effort to user stories, considering their
+complexity, risks, and effort required. This approach helps the team assess the difficulty of
+implementing each user story.
+143. You are a project manager overseeing the development of a new software application for a financial
+institution. The project has reached a significant milestone and is transitioning to the next phase, which
+involves preparing for user acceptance testing and eventual deployment. How would you conduct a project
+review meeting to evaluate the readiness of the project for the next phase or transition to operations?
+OA. Conduct a daily standup to quickly assess the project's progress.
+OB. Organize a release planning meeting to determine the high-level plan for delivering increments of
+value.
+O C. Hold a retrospective to explore work and results, focusing on process and product improvement.
+D. Host a project review meeting to assess status, evaluate value delivered, and readiness for the next
+phase or transition.
+Correct
+A project review meeting is specifically designed to assess the status, evaluate the value delivered,
+and determine if the project is ready to move to the next phase or transition. This meeting provides a
+comprehensive evaluation of project readiness.
+144. Your project team needs to refine and prioritize the backlog to identify upcoming iteration work. How would
+you conduct a backlog refinement meeting to ensure that the backlog is progressively elaborated and
+reprioritized effectively?
+A. Hold a project review meeting to assess the readiness of the backlog for upcoming iterations.
+O B. Organize an iteration planning meeting to clarify backlog items, acceptance criteria, and work effort.
+OC. Conduct a lessons learned meeting to share knowledge gained and improve project team
+performance.
+D. Host a backlog refinement meeting to progressively elaborate and reprioritize the backlog for
+upcoming iterations.
+Correct
+d):A backlog refinement meeting is specifically designed to ensure the progressive elaboration and
+reprioritization of the backlog items, making them ready upcoming iterations.
+1/1 point
+1/1 point
+145. You are a project manager leading the development of a new mobile application for a client in the healthcare
+industry. The project has successfully reached its final stages, and you need to obtain final acceptance of the
+delivered scope from the sponsor. How would you conduct a project closeout meeting to indicate that the
+product delivery is complete?
+1/1 point
+OA. Organize a steering committee meeting to discuss final scope acceptance.
+B. Host a daily standup to review the current progress of the project
+OC. Hold a project review meeting to assess project status and value delivered.
+OD. Conduct a project closeout meeting to obtain final acceptance of the delivered scope.
+Correct
+d) A project closeout meeting is specifically designed to obtain final acceptance of the delivered scope
+from the sponsor, product owner, or client, indicating that the product delivery is complete.
+146. Your project team is in the process of developing a product roadmap to outline significant events and
+decision points. Which method would you use to create a high-level timeline that depicts milestones and key
+events for your project?
+1/1 point
+OA. Regression analysis
+OB. Impact mapping
+OC. Trend analysis
+OD. Sensitivity analysis
+Correct
+B)Impact mapping is a strategic planning method used to create a visual roadmap that outlines
+significant events, milestones, and key decision points for the project during product
+development Incorrect options
+147. You've just been assigned as the project manager for a new initiative. Which document would you create to
+formally authorize the existence of the project, provide you with authority, and allocate organizational
+resources to project activities?
+O A. Business case
+OB. Business model canvas
+O c. Project brief
+1/1 point

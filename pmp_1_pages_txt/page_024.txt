@@ -1,0 +1,58 @@
+106. A project manager is leading a project to develop a new innovative product where requirements are uncertain
+and likely to change throughout the project. Which development approach would be most suitable for this
+scenario?
+A. Predictive approach
+OB. Adaptive approach
+C. Incremental approach
+OD. Iterative approach
+1/1 point
+Correct
+The most suitable development approach for a project with uncertain and evolving requirements is
+the "Adaptive approach," as it allows for changes and adjustments based on user feedback and
+evolving conditions.
+107. A project manager is leading a project where the scope of the deliverable is expected to have numerous
+changes. Which development approach would be most appropriate for this scenario?
+OA. Predictive approach
+OB. Adaptive approach
+OC. Incremental approach
+D. Hybrid approach
+Correct
+The most appropriate development approach for a project with a scope expected to have many
+changes is the "Adaptive approach," which allows for flexibility and adjustments as the project
+progresses.
+108. A project manager is leading a project that involves the development of a product with rigorous safety
+requirements. Which development approach is likely to be chosen for this scenario?
+O A. Predictive approach
+OB. Adaptive approach
+OC. Incremental approach
+OD. Hybrid approach
+Correct
+For products with rigorous safety requirements, a "Predictive approach" is likely to be chosen to
+ensure thorough planning and adherence to safety regulations.
+109. A project manager is deciding on a development approach for a project where the scope and requirements
+can be defined, collected, and analyzed at the start of the project. Which development approach is most
+suitable for this scenario?
+O A. Predictive approach
+OB. Hybrid approach
+OC. Adaptive approach
+OD. Incremental approach
+Correct
+The most suitable development approach for a project with well-defined, collected, and analyzed
+requirements is the "Predictive approach," which is often viewed as the waterfall approach.
+110. A project manager is working on a project where requirements are initially well-defined, but there is some
+uncertainty around certain deliverables. The project manager wants to ensure flexibility in handling evolving
+requirements. Which development approach most appropriate for this scenario?
+OA. Predictive approach
+O
+B. Hybrid approach
+OC. Adaptive approach
+OD. Incremental approach
+Correct
+A "Hybrid approach" is most appropriate, as it allows for combining elements of both predictive and
+adaptive approaches to handle well-defined requirements and uncertainty.
+111. A project manager is leading a project to develop a new product that is innovative and has never been
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

@@ -1,0 +1,58 @@
+OD. Estimate to completion
+Correct
+The Estimate at Completion (EAC) is an earned value management measure that forecasts the
+expected total cost of completing all work in the project. It considers past performance and is
+calculated by dividing the Budget at Completion (BAC) by the Cost Performance Index (CPI) or using
+other acceptable calculation methods.
+74. As a project manager, you want to present project status and key metrics to stakeholders in a visually
+summarized format. Which common method of showing large quantities of information on metrics
+electronically with high-level summaries and drill-down analysis is best suited for this purpose?
+A. Dashboard
+OB. Mood chart
+OC. Information radiator
+O D. Morale survey
+Correct
+A dashboard is a common method of showing large quantities of information on metrics
+electronically with high-level summaries and drill-down analysis. Dashboards present information in
+a visually summarized format, making it easier for stakeholders to absorb and understand project
+status and key metrics.
+75. As a project manager, you want to maintain a visible, physical display that provides information to the rest of
+the organization for timely knowledge sharing. What are these visible displays called, and where are they
+usually posted?
+OA. Dashboards; in a scheduling or reporting tool
+OB. Mood charts; at the project team's workspace
+C. Information radiators; posted where people can easily see the information
+OD. Morale surveys; in the project documentation repository
+Correct
+Information radiators; posted where people can easily see the information. Information radiators,
+also known as big visible charts (BVCS), are visible, physical displays that provide information to the
+rest of the organization, enabling timely knowledge sharing. They are posted in a place where people
+can see the information easily, rather than having information in a scheduling or reporting tool.
+76. What is the purpose of a task board in a lean environment?
+A. To track the number of new viewers on a website
+OB. To measure the velocity of project teams.
+OC. To illustrate processes and compare actual against expected performance.
+D. To present up-to-date information for the Planning Performance Domain.
+Correct
+A task board in a lean environment, also known as a visual control, is used to illustrate processes and
+easily compare actual performance against expected performance. It visually represents the status of
+tasks, showing work that is ready to be started, work in progress, and work that is completed. It allows
+anyone to see at a glance the status of tasks and helps identify potential bottlenecks in the project
+workflow.
+77. How can flow-based projects, such as those using kanban boards, limit the amount of work in progress?
+OA. By setting stretch goals and aspirational measures.
+B. By implementing exception plans for forecasted variances.
+C. By using different color sticky notes to represent different types of work.
+D. By "swarming" around current work when a column approaches the work in progress limit.
+Correct
+d) Flow-based projects, like those using kanban boards, aim to optimize workflow and reduce work in
+progress to enhance efficiency. When a column on a kanban board approaches the work in progress
+limit, project team members can "swarm" around the current work to help those working on tasks
+that are slowing down the flow. This collaborative approach ensures that tasks move smoothly
+through the workflow and avoid bottlenecks.
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+"
+"

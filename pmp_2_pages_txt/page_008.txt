@@ -1,0 +1,58 @@
+A. Predictive life cycle with an incremental development approach.
+OB. Predictive life cycle with an adaptive development approach.
+OC. Incremental life cycle with an adaptive development approach.
+OD. Adaptive life cycle with an incremental development approach.
+Correct
+The incremental life cycle allows for delivering the core features in early increments, which aligns
+with the project's objective to gain early user feedback and improve subsequent deliveries.
+Additionally, an adaptive development approach (Agile) enables iterative development and
+continuous improvement based on feedback, making it suitable for this project.
+29. You are leading a project to develop an e-commerce website. The project involves multiple deliveries of the
+website's features, with each release adding new functionality to the previous one. The project team is
+distributed across different locations. Which combination of delivery cadence, development approach, and
+life cycle would be most suitable for this project?
+1/1 point
+A. Periodic deliveries, adaptive development approach, and incremental life cycle.
+O B. Multiple deliveries, predictive development approach, and incremental life cycle.
+OC. Single delivery, adaptive development approach, and predictive life cycle.
+OD. Multiple deliveries, adaptive development approach, and adaptive life cycle.
+Correct
+In an organization with a culture of closely managing and directing projects, and with an experienced
+project team, a predictive approach would be the most appropriate development approach for this
+project. The predictive approach aligns well with organizations that emphasize planning, control, and
+stability, which is suitable for delivering a complex system with integrated components.
+30. You are managing a project to develop a new software product. The project aims to validate the business case
+and assess the organization's capability to deliver the intended outcome. Which life cycle phase would be
+most appropriate for this project?
+OA. Deploy phase.
+OB. Feasibility phase.
+OC. Testphase.
+OD. Close phase
+Correct
+The feasibility phase determines if the business case is valid and assesses the organization's
+capability to deliver the intended outcome. This phase aligns directly with the project's objective of
+validating the business case and assessing the organization's capability.
+1/1 point
+31. You are managing a project that involves developing a new software product with high uncertainty related to
+stakeholder acceptance. The project team wants to release a minimum viable product to gather feedback
+before adding additional features and functions. Which development approach would be most appropriate
+for this scenario?
+1/1 point
+A. Predictive approach.
+OB. Hybrid approach.
+C. Adaptive approach.
+OD. Incremental approach.
+Correct
+An adaptive approach, such as Agile, would be most appropriate in this scenario. The adaptive
+approach allows for iterative development and continuous feedback from stakeholders, which aligns
+with the need to release a minimum viable product to gather early feedback on stakeholder
+acceptance.
+32. As a project manager, you are tasked with selecting the most appropriate planning approach for your project.
+You want to ensure that planning is sufficient for moving forward without excessive details. Which outcome
+from the provided table should you focus on to achieve this objective?
+○ A. The development approach for deliverables reflects the product variables and is appropriate given
+the project and organizational variables.
+B. The cadence for development, testing, and deploying is represented in the life cycle phases.
+O c. Project work from launch to close is represented in the project phases, including appropriate exit
+criteria.
+1/1 point

@@ -1,0 +1,70 @@
+stakeholders located across different regions. How would you use Alistair Cockburn's model of
+communication channels' effectiveness and richness to determine the most suitable communication channel
+for effectively sharing this information? Explain how the richness of communication channels influences the
+choice of communication medium in this project scenario.
+O A. Opt for face-to-face communication for all project-related information, regardless of complexity, to
+ensure a personal touch and immediate feedback.
+OB. Use email as the primary communication medium for complex information to ensure written records
+and easy dissemination to a geographically dispersed team.
+C. Employ video conferencing for complex information that requires a higher degree of interactivity and
+real-time visual cues for better understanding.
+OD. Rely on written documents and reports for all communication, as they can be distributed easily and
+allow team members to consume information at their own pace.
+Correct
+c): Alistair Cockburn's model suggests that the richness of communication channels influences the
+choice of communication medium. For complex and personal information, video conferencing
+provides a higher level of richness by allowing real-time interaction, visual cues, and immediate
+feedback, enhancing understanding and engagement.
+116. You're leading a project that involves communicating with various stakeholders, including team members,
+clients, and vendors. To effectively convey both simple factual information and complex technical details,
+how would you apply the concept of media richness, as defined by Daft and Lengel? Provide examples of
+communication channels you would use for different scenarios.
+A. For conveying simple factual information, you would primarily use email and written memos, as they
+provide a clear and standardized format.
+OB. When communicating complex technical details, you would rely on video conferencing and face-to-
+face meetings to ensure rich interaction and immediate feedback.
+C. Use social media platforms and instant messaging for all types of information, as they offer a quick
+and convenient way to reach a wide range of stakeholders.
+D. Leverage project management software and collaboration tools to share both simple and complex
+information, ensuring easy access and traceability.
+Correct
+D) The concept of media richness suggests that communication channels should match the
+complexity of the information being conveyed. Project management software and collaboration tools
+provide a balance between richness and accessibility, making them suitable for sharing both simple
+factual information and complex technical details.
+117. You're leading a project to develop a new mobile banking app for a financial institution. How would you
+apply Donald Norman's concept of the gulf of execution and gulf of evaluation to ensure that the user
+interface of the app aligns with user expectations and facilitates seamless interaction? Provide an example of
+how you would address each gulf in a real project scenario.
+O A. Provide a visually appealing design with complex navigation menus to give users a sense of
+sophistication and control.
+B. Simplify the user interface by removing unnecessary steps and options, making it intuitive and
+straightforward for users to perform tasks.
+◇ C. Incorporate advanced features and functionalities to challenge users and encourage exploration,
+even if they deviate from traditional banking apps.
+OD. Use technical jargon and industry-specific terminology to enhance the app's credibility and show
+that it caters to knowledgeable users.
+Correct
+b)Simplifying the user interface by removing unnecessary steps and options aligns with the concept of
+reducing the gulf of execution. It ensures that users can easily understand and perform tasks without
+confusion, thereby bridging the gap between user intentions and app functionality. This approach
+enhances user satisfaction and overall usability.
+118. In a project team, you have members with diverse motivations, ranging from a desire for achievement to a
+need for affiliation. How would you apply Frederick Herzberg's model of hygiene and motivational factors to
+tailor rewards and incentives for different team members, ensuring their satisfaction and engagement?
+Provide examples of how you would address both motivational and hygiene factors.
+OA. Offer all team members a monetary bonus as a reward for completing project milestones.
+B. Provide flexible work hours and opportunities for skill development to team members who value
+personal growth and mastery
+OC. Assign team members to challenging tasks without providing additional support, assuming that the
+intrinsic motivation will suffice.
+OD. Implement a formal recognition program for all team members, regardless of their individual
+motivations
+Correct
+b)Tailoring rewards and incentives based on Herzberg's model involves addressing both motivational
+and hygiene factors. Offering flexible work hours and opportunities for skill development directly
+addresses the motivational factors related to achievement, growth, and advancement. This approach
+enhances team members' satisfaction and engagement.
+1/1 point
+1/1 point
+1/1 point

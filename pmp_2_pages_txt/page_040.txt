@@ -1,0 +1,52 @@
+168. You are preparing to initiate a procurement process and want to ensure that prospective sellers have a clear
+and common understanding of the project's requirements. Which type of meeting should you conduct for this
+purpose?
+1/1 point
+A. Bidder Conference
+OB. Change Control Board
+OC. Daily Standup
+OD. Iteration Review
+Correct
+a):Bidder Conference is the right choice because it involves meetings with prospective sellers to
+ensure a common understanding of procurement requirements.
+169. Your project has completed a phase, and you need to assess its status, value delivered, and readiness to
+transition to the next phase. Which type of meeting should you conduct for this purpose?
+O A. Daily Standup
+OB. Project Review
+OC. Release Planning
+OD. Risk Review
+Correct
+b): Project Review is the right choice because it involves assessing the status, evaluating the value
+delivered, and determining if the project is ready to move to the next phase or transition to
+operations.
+170. As a project manager, you are looking to strike a balance between investing time in planning to reduce risk
+and avoiding overplanning. Which model is used to help identify the optimum amount of planning,
+considering the trade-off between uncertainty and return on investment?
+OA. Smoothing/accommodating
+OB. Negotiation Models
+OC. Salience Model
+OD. Boehm's Planning Model
+Correct
+d):Boehm's Planning Model is the right choice because it helps identify the optimum amount of
+planning by considering the time invested and the associated costs and benefits.
+171. In which performance domain is the "Think Win-Win" principle of negotiation, as proposed by Steven Covey,
+most likely to result in a scenario where each person is satisfied with the outcome?
+OA. Initiating
+B. Planning
+OC. Executing
+OD. Monitoring and Controlling
+Correct
+b):The "Think Win-Win" principle of negotiation is most likely to result in a scenario where each
+person is satisfied with the outcome in the Planning performance domain.
+172. When is the "Forcing" style of negotiation most appropriate?
+O A. When maintaining harmony is important
+OB. When collaboration is desired for resolution
+OC. When there is a time constraint and immediate resolution is needed
+OD. When a win-win outcome is desired
+Correct
+c):Immediate resolution is the key characteristic of the "Forcing" style, where one party imposes their
+will on the other due to time constraints
+1/1 point
+1/1 point
+1/1 point
+1/1 point

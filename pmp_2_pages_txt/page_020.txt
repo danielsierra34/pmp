@@ -1,0 +1,56 @@
+a) Decoupling involves disconnecting parts of the system to both simplify the system and reduce the
+number of connected variables. By determining how a piece of the system works on its own, the
+overall size of the problem is reduced, making it easier to manage complexity.
+83. A project manager is evaluating possible responses to a risk event that, if it occurs, will have a negative
+impact on the project. The project team believes that the threat is outside the project's scope and requires
+higher authority to address. What strategy should the project manager consider for dealing with this risk?
+A. Escalate
+○ B. Mitigate
+OC. Accept
+OD. Transfer
+Correct
+a) The project manager should consider the "Escalate" strategy for dealing with a risk event that is
+outside the project's scope or requires higher authority to address. Escalation involves bringing the
+risk to the attention of the appropriate authority, such as the project sponsor or senior management,
+who have the authority and resources to address the risk.
+1/1 point
+84. A project manager is facing an environment with rapid and unpredictable changes in available skill sets and
+materials. This volatility is impacting the project's cost and schedule. What approach can the project manager
+use to address volatility?
+1/1 point
+O Fail-safe mechanism
+OB. Alternatives analysis
+OC. Progressive elaboration
+OD. Reframing the project objectives
+Correct
+b) To address volatility in an environment with rapid and unpredictable changes, the project
+manager can use "Alternatives analysis." This involves finding and evaluating different options to
+meet project objectives, such as considering alternative skill sets, resequencing work, or outsourcing
+work.
+85. A project manager has identified a potential risk event with a positive impact on the project objectives. What
+is the appropriate term for such risks?
+A. Opportunities
+OB. Threats
+OC. Mitigations
+OD. Escalations
+Correct
+a) The appropriate term for potential risk events with a positive impact on the project objectives is
+"Opportunities." Opportunities are positive risks that, if they occur, can have a beneficial effect on the
+project.
+86. As a project manager, you have identified an event that, if it occurs, will have a positive impact on the project
+objectives. What is the appropriate strategy to ensure that this opportunity materializes?
+OA. Avoid
+B. Enhance
+OC. Escalate
+D. Exploit
+Correct
+d) The appropriate strategy to ensure that an opportunity occurs is to "Exploit." By exploiting the
+opportunity, e project team takes actions to actively ensure that the positive event or condition
+happens and its benefits are realized.
+87. As a project manager, you are allocating an amount of time or budget to address identified risks should they
+occur. What is this budget category called?
+O A. Risk reserve
+B. Contingency reserve
+1/1 point
+1/1 point
+1/1 point

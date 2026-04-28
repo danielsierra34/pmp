@@ -1,0 +1,54 @@
+Which of the following is the primary source of complexity in this scenario?
+A. Human behavior
+OB. System behavior
+OC. Uncertainty and ambiguity
+OD. Technological innovation
+Correct
+In this scenario, the primary source of complexity is system behavior, which results from dynamic
+interdependencies within and among project elements, including interactions among stakeholders
+with different cultural norms and time zones.
+60. A project team is working on a project that involves a high degree of uncertainty and ambiguity. They are
+finding it challenging to establish clear cause-and-effect relationships among project elements. Which factor
+makes it difficult to address uncertainty and ambiguity effectively in this scenario?
+O A. Technological innovation
+OB. System behavior
+C. Human behavior
+D. Dynamic interdependencies
+Correct
+In this scenario, system behavior, which results from dynamic interdependencies among project
+elements, contributes to difficulty in addressing uncertainty and ambiguity effectively.
+61. A project manager is facing challenges with conflicting personal agendas among stakeholders, leading to
+deviations from the project's goals and objectives. Which dimension of complexity is most evident in this
+scenario?
+OA. System behavior
+B. Technological innovation
+C. Uncertainty and ambiguity
+OD. Human behavior
+Correct
+In this scenario, the most evident dimension of complexity is human behavior, as it involves the
+interplay of conduct, attitudes, and experience of people, including personal agendas that conflict
+with project goals.
+62. A project team is working on implementing a new technology that is expected to disrupt existing processes
+and ways of working. The team is uncertain about how to best use the technology, leading to increased
+complexity. Which dimension of complexity is evident in this scenario?
+OA. System behavior
+◇ B. Uncertainty and ambiguity
+C. Human behavior
+OD. Technological innovation
+Correct
+In this scenario, the evident dimension of complexity is technological innovation, which introduces
+disruption and uncertainty due to the implementation of new technology.
+1/1 point
+1/1 point
+1/1 point
+63. A project manager is dealing with a project involving multiple regulatory agencies, international financial
+institutions, and diverse specialty subcontractors. The different stakeholders have varying time zones,
+languages, and cultural norms. Which source of complexity is most evident in this scenario?
+OA. System behavior
+B. Human behavior
+C. Technological innovation
+OD. Uncertainty and ambiguity
+1/1 point
+Correct
+In this scenario, the most evident source of complexity is human behavior, as it involves interactions
+among stakeholders with different time zones, languages, and cultural norms.

@@ -1,0 +1,55 @@
+OC. Metrics
+OD. Requirements documentation
+Correct
+d): Requirements documentation is a record of product requirements and associated information,
+including category, priority, and acceptance criteria.
+158. Your project involves organizing potential sources of risks in a hierarchical representation. Which artifact
+would you use to create this representation?
+OA. Organizational breakdown structure
+OB. Product breakdown structure
+OC. Risk breakdown structure
+OD. Work breakdown structure
+Correct
+c): A risk breakdown structure is a hierarchical representation of potential sources of risks, which
+makes it suitable for organizing and categorizing risks in your project.
+159. You're required to compare actual performance against the approved estimate for the project's work
+breakdown structure (WBS) component or schedule activity. Which type of baseline would you use for this
+purpose?
+O A. Budget
+OB. Milestone schedule
+OC. Performance measurement baseline
+OD. Project schedule
+Correct
+c):The performance measurement baseline includes integrated scope, schedule, and cost baselines,
+which are used for comparison to manage, measure, and control project execution.
+160. You need to track and visualize the average cycle time of completed work items over time. Which visual data
+artifact would you use for this purpose?
+OA. Burndown/burnup chart
+OB. Cycle time chart
+OC. Scatter diagram
+○ D. S-curve
+Correct
+b): A cycle time chart shows the trend over time of the average cycle time of completed work items,
+making it suitable for tracking and visualizing cycle times.
+161. Your project team needs to acquire goods and services from outside the performing organization. Which plan
+should you develop to address this aspect?
+OA. Change control plan
+OB. Communications management plan
+OC. Procurement management plan
+OD. Resource management plan
+Correct
+c):The procurement management plan is a component of the project or program management plan
+that describes how a project team will acquire goods and services from outside the performing
+organization.
+162. You're managing a project and need to select and tailor artifacts based on the performance domain. Which
+artifact would be useful in the "Dev Approach and Life Cycle" performance domain?
+OA. Cycle time chart
+OB. Performance measurement baseline
+C. Product breakdown structure
+OD. Stakeholder engagement assessment matrix
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+"

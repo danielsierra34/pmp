@@ -1,0 +1,57 @@
+UB. The project team is emectively managing formal communication channels.
+OC. Stakeholders have not been adequately engaged in the project.
+D. Further stakeholder engagement is necessary to meet information requirements.
+Correct
+Further stakeholder engagement is necessary to meet information requirements. An abundance of ad
+hoc requests for information may indicate that the communication planning was not sufficient to
+meet stakeholder needs. In this situation, further stakeholder engagement may be necessary to
+ensure that stakeholder information requirements are adequately met.
+47. You are a project manager responsible for a large project that involves several procurements. How are the
+request for proposals (RFP), statement of work (SOW), and request for quote (RFQ) different from one
+another?
+1/1 point
+A. RFP is used for complex or complicated scope, while SOW is used when price is the main deciding
+factor
+B. RFP is used when price is the main deciding factor, while RFQ is used for complex or complicated
+OC. RFQ is used for simple scope where the buyer is looking for the vendor to provide a solution.
+OD. SOW is used for complex or complicated scope where the buyer is looking for the vendor to provide a
+Correct
+The Request for Proposal (RFP) is used for complex or complicated scope where the buyer is looking
+for the vendor to provide a solution. On the other hand, the Statement of Work (SOW) is used when
+price is the main deciding factor, and the buyer already knows what they want from the vendor. The
+Request for Quote (RFQ) is used when the proposed solution is readily available and price is the main
+deciding factor.
+48. As a project manager, you want to ensure that knowledge transfer occurs effectively within the organization.
+What type of knowledge can be readily codified using words, pictures, or numbers?
+A. Explicit knowledge.
+OB. Tacit knowledge.
+OC. Project-specific knowledge.
+OD. Industry-specific knowledge.
+Correct
+Explicit knowledge can be readily codified using words, pictures, or numbers. It is tangible and can
+be documented or distributed using information management tools.
+49. You are a project manager assessing the efficiency of your project team's management of physical resources.
+What aspect of the project's physical resource management should you examine to determine efficiency?
+OA. The number of stakeholders involved in managing physical resources.
+B. The amount of material used, scrap discarded, and rework
+OC. The types of physical resources procured for the project.
+OD. The time and location for physical resource deliveries.
+Correct
+The amount of material used, scrap discarded, and rework. To determine the efficiency of managing
+physical resources, the project manager should examine the amount of material used, scrap
+discarded, and rework. This assessment can help identify waste and inefficiencies in the use of
+physical resources
+50. You are managing a project in a manufacturing industry where product quality is crucial. To ensure defects
+are detected before reaching the customer, which category of cost associated with quality focuses on finding
+and correcting defects before the customer receives the product?
+OA. Prevention costs
+OB. Appraisal costs
+OC. Internal failure costs
+OD. External failure costs
+Correct
+Internal failure costs are incurred to find and correct defects before the customer receives the
+product. These costs are associated with activities aimed at detecting and resolving defects within the
+project before they impact the customer.
+1/1 point
+1/1 point
+1/1 point

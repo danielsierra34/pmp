@@ -1,0 +1,58 @@
+OA. Choose options based on subjective opinions without considering the potential outcomes.
+OB. Use decision tree analysis to evaluate options sequentially, starting with the most favorable option.
+C. Assess the implications of a chain of multiple options, considering uncertainty and potential
+outcomes
+OD. Ignore the implications of uncertainty and rely solely on historical data for decision-making.
+Correct
+c)Decision tree analysis is a method for evaluating the implications of multiple options, especially in
+the presence of uncertainty. It helps project managers make informed decisions by considering
+various outcomes and probabilities.
+139. You are a project manager in a manufacturing company, and you are tasked with selecting the most suitable
+method for upgrading the company's manufacturing process to improve efficiency and reduce production
+costs. To make an informed decision, you will apply the alternatives analysis method to assess and select the
+best option for performing the project work.
+O A. Base the decision solely on assumptions to expedite the process and move forward quickly.
+OB. Evaluate identified options to select the best approach for the project work
+OC. Focus only on constraints to ensure that project execution remains within predefined limits.
+D. Avoid benchmarking to prevent being influenced by practices of comparable organizations.
+Correct
+b):Alternatives analysis involves evaluating identified options to make informed decisions about
+project approaches. This approach helps project managers select the most suitable option for
+achieving project objectives.
+140. Your project team is engaged in a process analysis to review and improve an existing project activity. How
+would you use the process analysis method to identify opportunities for enhancing the efficiency and
+effectiveness of the activity?
+O A. Focus solely on analyzing the activity's output without considering the steps and procedures
+involved.
+B. Examine the existing steps and procedures in the activity to identify areas for improvement.
+OC. Disregard the need for a systematic review and improvements, assuming the activity is already
+optimized.
+OD. Prioritize changes in the activity's output and ignore the underlying processes.
+Correct
+b)Process analysis involves systematically reviewing the steps and procedures of an activity to
+identify opportunities for improvement. It aligns with this method, allowing for a comprehensive
+assessment of the activity's efficiency and effectiveness.
+141. Your project requires developing a cost estimate considering uncertain individual activity estimates. How
+would you apply multipoint estimating to calculate a comprehensive cost assessment for the project?
+A. Rely solely on optimistic estimates to ensure a cost-effective approach.
+OB. Combine average estimates without considering pessimistic estimates to expedite the estimation
+process.
+C. Apply a weighted average of optimistic, pessimistic, and most likely estimates to account for
+uncertainty.
+OD. Use historical data from a different project to estimate costs without considering individual activity
+Correct
+c):Multipoint estimating involves combining optimistic, pessimistic, and most likely estimates to
+create a comprehensive assessment that considers uncertainty. This approach provides a more
+accurate representation of potential costs.
+142. You are a Scrum Master leading an agile development team working on a software project to create a new e-
+commerce website. You need to estimate the work effort required to implement various user stories that have
+been identified for the upcoming sprint. How would you apply story point estimating to assess the complexity
+and effort involved in implementing each user story?
+OA. Assign absolute cost values to each user story based on historical data.
+B. Use relative points of effort to compare user stories considering their complexity and uncertainty.
+O C. Disregard complexity and effort, focusing solely on the duration of each user story.
+D. Estimate user story effort based on the total project budget.
+1/1 point
+1/1 point
+1/1 point
+1/1 point

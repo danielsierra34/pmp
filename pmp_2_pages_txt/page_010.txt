@@ -1,0 +1,55 @@
+37. You are planning for the project team composition and evaluating the skills required for the project work.
+Some project team members will be located in different cities and time zones. What is an advantage of having
+a physically dispersed project team?
+O A. Better osmotic communication.
+B. Reduced time spent connecting people through technology.
+OC. Enhanced problem-solving capabilities.
+OD. Improved collaboration in the same room.
+Correct
+Reduced time spent connecting people through technology. A physically dispersed project team
+team to utilize technology for communication and collaboration, which can lead to
+reduced time spent on connecting people compared to physically co-located teams.
+38. As a project manager, you are planning communication for your project. What should be the first
+consideration in planning communication with stakeholders?
+A. The best way to provide information.
+OB. The categories of information.
+C. The stakeholders who need information.
+OD. The frequency of information needed.
+Correct
+The stakeholders who need information. The first consideration in planning communication with
+stakeholders is to identify the stakeholders who need information. Understanding the stakeholders
+and their information needs is crucial for effective communication.
+1/1 point
+1/1 point
+39. You are managing an engineering project that requires significant physical resources. The project team is
+strategizing the timing of material orders, delivery, and usage to optimize project efficiency. What is a key
+consideration in this strategic planning?
+1/1 point
+A. Global logistics.
+OB. Use of virtual teams.
+OC. Management reserves.
+OD. Deterministic estimating.
+Correct
+In strategic planning for optimizing project efficiency with significant physical resources, considering
+global logistics is crucial. This involves evaluating the timing of material orders, delivery, storage, and
+disposition across different locations and suppliers.
+40. You are in the early stages of a project, and the project team is conducting a make-or-buy analysis. What does
+this analysis entail?
+A. Identifying which deliverables and services will be purchased from external sources.
+B. Determining the type of goods needed and technical specifications for the procured goods.
+OC. Developing cost estimates and aggregating them to create the cost baseline
+OD. Setting aside contingency reserve funds to respond to risk events.
+Correct
+Identifying which deliverables and services will be purchased from external sources. The make-or-buy
+analysis involves identifying which deliverables and services will be developed in-house and which
+will be purchased from external sources.
+41. You are managing a large critical project, and the project team is reviewing the efficiency and effectiveness of
+their work processes. They want to identify and remove waste from the production system. Which technique
+should the team consider using to measure the ratio of value-adding activities and non-value-adding
+activities?
+A. Retrospectives or lessons learned.
+OB. Process audits and quality assurance activities.
+OC. Lean production methods.
+OD. Process tailoring.
+1/1 point
+1/1 point

@@ -1,0 +1,45 @@
+OD. Appropriate communication and engagement with stakeholders
+Correct
+A Evaluating changes holistically with consideration for various impacts supports the checking
+outcome of "Effective handling of change."
+160. The project manager observes that team status reports show fewer errors and rework with an increase in
+velocity. Which checking outcome does this observation primarily indicate?
+OA. Improved capability due to continuous learning and process improvement
+OB. Efficient and effective project performance
+OC. Project processes appropriate for the project and environment
+D. Effective management of procurements
+Correct
+A The observation of fewer errors, less rework, and increased velocity supports the checking outcome
+of "Improved capability due to continuous learning and process improvement."
+161. The Delivery Performance Domain focuses on producing expected deliverables that drive intended outcomes.
+Which desired outcome does this primarily align with?
+A. Stakeholders accept and are satisfied with project deliverables.
+OB. Project benefits are realized in the planned time frame.
+C. Projects contribute to business objectives and strategy advancement.
+D. The project team has a clear understanding of requirements
+Correct
+The Delivery Performance Domain aligns with the desired outcome of "Projects contribute to
+business objectives and advancement of strategy."
+162. A project manager is using a development approach that supports releasing deliverables throughout the
+project life cycle. How does this approach impact the delivery of value?
+O A. Projects start delivering value after the initial deployment.
+B. Projects realize outcomes they were initiated to deliver.
+◇ C. Projects capture business value long after project completion.
+◇ D. Projects focus on meeting scope and quality expectations.
+Correct
+Using a development approach that supports releasing deliverables throughout the project life cycle
+enables projects to start delivering value to the business, customer, or stakeholders during the
+project.
+163. The project manager decomposes scope into lower levels of detail using a hierarchical structure to identify
+deliverables and work required. What is this structure called?
+O A. Stakeholder hierarchy
+B. Theme hierarchy
+C. Work breakdown structure (WBS)
+OD. Project charter hierarchy
+Correct
+The hierarchical structure used to decompose scope into lower levels of detail is known as the Work
+Breakdown Structure (WBS).
+1/1 point
+1/1 point
+1/1 point
+1/1 point

@@ -1,0 +1,60 @@
+Correct
+Industry standards related to quality provide guidelines and benchmarks for product development
+and ensure that the product meets acceptable quality levels for global market adoption and customer
+satisfaction.
+15. A project manager is leading a team responsible for enhancing specific capabilities of an existing product that
+is in the growth phase of its life cycle. The team's objective is to add features that create additional value for
+customers. Which aspect of the product life cycle is being addressed in this scenario?
+A. Introduction
+OB. Maturity
+C. Growth
+OD. Decline/Retirement
+Correct
+The growth phase of the product life cycle is characterized by adding features, capabilities, and
+enhancements that create additional value for customers and contribute to increased product
+adoption.
+16. A project manager is overseeing the development of a new software product that will be launched as part of
+an existing program. The program aims to enhance customer experience by adding advanced features to the
+product. Which approach is being used in this scenario?
+A. Project management within a product life cycle
+OB. Program management within a product life cycle
+OC. Product management within a program
+OD. Project management within a program
+Correct
+In this scenario, the approach being used is "Product management within a program." The program is
+applying the full product life cycle within its boundaries to achieve specific benefits for the product,
+which includes using product management competencies to enhance customer experience and add
+advanced features.
+17. A project manager is facing a situation where a team member has consistently been disrespectful to others,
+affecting team morale. The project manager wants to address this behavior while upholding project
+management principles. Which principle from the PMI Code of Ethics and Professional Conduct aligns with
+addressing this situation?
+OA. Responsibility
+O B. Respect
+C. Fairness
+OD. Honesty
+Correct
+The principle of "Respect" from the PMI Code of Ethics and Professional Conduct aligns with
+addressing the situation of a disrespectful team member. It emphasizes treating others with respect
+and dignity, which is essential for maintaining a positive team environment and upholding project
+management values.
+18. A project manager is leading a project that aims to optimize risk responses in a complex environment. The
+project manager notices that the guidance for navigating complexity can also be useful in recognizing,
+evaluating, and responding to system interactions. Which concept is demonstrated in this scenario?
+O A. Complementary principles
+OB. Overlapping principles
+OC. Internally consistent principles
+OD. Contradicting principles
+Correct
+The concept demonstrated in this scenario is "Overlapping principles." The guidance for navigating
+complexity overlaps with recognizing, evaluating, and responding to system interactions, indicating
+that certain project management principles can have areas of overlap where they apply to multiple
+aspects of project management.
+19. A project manager is leading a project that involves the use of natural resources and materials. The project
+manager is committed to ensuring the sustainable use of these resources and minimizing the project's
+environmental impact. Which aspect of stewardship is demonstrated in this scenario?
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

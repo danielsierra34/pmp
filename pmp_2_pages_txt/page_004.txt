@@ -1,0 +1,63 @@
+scope. One stakeholder wants to add additional features to the project, while the other stakeholder believes it
+will increase costs and delay the project. How can you apply effective leadership behaviour's to address this
+conflict and ensure a positive project outcome?
+O A. Take a decisive approach and side with the stakeholder who wants to add additional features,
+emphasizing the benefits it will bring to the project.
+OB. Ignore the conflict and proceed with the original project plan, hoping that the stakeholders will
+resolve the issue among themselves.
+C. Facilitate a meeting with both stakeholders to understand their perspectives and concerns, and work
+collaboratively to find a compromise that aligns with project objectives.
+OD. Escalate the conflict to senior management and let them handle the decision-making process.
+Correct
+c) Facilitate a meeting with both stakeholders to understand their perspectives and concerns, and
+work collaboratively to find a compromise that aligns with project objectives.
+12. As a project manager, you are overseeing the development of a software application for a client. During
+testing, several defects are identified in the application, and the client is concerned about the overall quality
+of the deliverable. How can you address the client's concerns and ensure that the deliverable meets the
+required quality standards?
+A. Downplay the identified defects and assure the client that they are minor issues that can be easily
+fixed.
+OB. Acknowledge the defects but explain that they are inevitable in software development and can be
+addressed in future updates.
+C. Collaborate with the client to understand their specific quality expectations and develop a plan to
+rectify the identified defects before the final delivery.
+D. Shift the blame to the development team, stating that they are responsible for the defects, and you
+were not aware of the issues.
+Correct
+c) Collaborate with the client to understand their specific quality expectations and develop a plan to
+rectify the identified defects before the final delivery.
+13. You are leading a project that involves multiple stakeholders from different countries, each with diverse
+cultural norms and languages. Due to the complex interactions between these stakeholders, you start
+experiencing uncertainty and ambiguity in the project environment. What is the best approach to navigate
+this complexity effectively?
+A. Increase the number of stakeholders to get a broader range of perspectives.
+B. Focus on minimizing interactions between stakeholders to reduce complexity.
+C. Employ systems thinking and continuous learning to identify and address complexities.
+OD. Rely solely on past project experiences to handle the current complexity.
+Correct
+The best approach to navigate complexity in the project environment, as mentioned in the excerpt, is
+to employ systems thinking and continuous learning. This helps project teams increase their ability to
+navigate complexity when it emerges. It also allows them to adapt their approaches and plans to
+potential disruptions effectively.
+14. During the execution of your project, a new technological innovation emerges that could significantly
+enhance project outcomes. However, there are uncertainties related to how the technology will be used. What
+should you do to optimize the potential benefits of this innovation while managing the associated risks?
+OA. Ignore the innovation to maintain project stability and avoid complexity.
+OB. Implement the innovation without assessing its impact on the project.
+C. Analyse the uncertainties and potential impacts of the innovation and develop appropriate risk
+responses.
+OD. Wait for the innovation to become a standard industry practice before considering its adoption.
+Correct
+The best approach, as per the excerpt, is to analyze the uncertainties and potential impacts of the
+innovation and develop appropriate risk responses. This allows you to optimize the potential benefits
+while addressing the risks associated with the technological innovation.
+15. You are managing a project that requires significant organizational change for successful adoption of the
+project outcomes. However, some stakeholders seem resistant to change, and there is a conservative culture
+within the organization. What approach can you take to increase the likelihood of successful change
+adoption?
+O A. Implement change forcefully to overcome resistance and achieve quick results.
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+"

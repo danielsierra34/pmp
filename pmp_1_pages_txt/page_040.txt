@@ -1,0 +1,58 @@
+refers to "Technical performance measures."
+175. Which measure is used to indicate the number f work items being actively worked on at any given time in
+projects using adaptive approaches?
+OA. Lead time
+OB. Cycle time
+OC. Work in progress
+OD. Queue size
+Correct
+Work in progress (WIP) is the correct measure in this context. It refers to the number of work items
+that are currently in the process of being worked on but have not yet been completed. In adaptive
+project management approaches like Agile or Scrum, controlling and managing WIP is important to
+ensure efficient flow and to prevent overloading the team with too many simultaneous tasks.
+176. Which metric is used to assess the relationship between value-adding time and non-value-adding activities in
+lean systems?
+○ A. Queue size
+B. Batch size
+C. Process efficiency
+OD. Cycle time
+Correct
+Process efficiency directly addresses the relationship between value-adding and non-value-adding
+activities in lean systems. It measures how much of the overall process time is spent on activities that
+directly add value to the customer versus activities that do not add value (waste). Lean systems aim to
+minimize waste and maximize value-adding time, making process efficiency a key metric in assessing
+the effectiveness of such systems.
+177. What measure assesses the extent to which work is accomplished as planned based on actual start and finish
+dates?
+OA. Effort and duration
+OB. Schedule variance (SV)
+OC. Feature completion rates
+OD. Cost variance (CV)
+Correct
+Schedule variance is the correct measure in this context. It calculates the difference between the
+planned schedule (the baseline schedule) and the actual schedule based on the actual start and finish
+dates of tasks or activities. A positive SV indicates that work is ahead of schedule, a negative SV
+indicates that work is behind schedule, and a zero SV indicates that work is proceeding exactly as
+planned.
+178. Which metric indicates the financial return compared to the cost of a project investment?
+O A. Return on investment
+B. Cost performance index (CPI)
+C. Net present value (NPV)
+D. Planned benefits delivery compared to actual benefits delivery
+Correct
+Return on investment (ROI) because it directly indicates the financial return in relation to the cost of a
+project investment, making it a key metric for evaluating the profitability and success of an
+investment.
+179. Which measure is used to determine whether the project costs outweigh its benefits?
+OA. Cost-benefit ratio
+OB. Cost variance (CV)
+◇ C. Schedule performance index (SPI)
+OD. Variance at completion (VAC)
+Correct
+Cost-benefit ratio because it directly measures the relationship between the costs incurred for a
+proiect and the benefits it is expected to deliver. It helps determine whether the benefits generated
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

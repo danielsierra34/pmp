@@ -1,0 +1,59 @@
+OC. Queue size
+OD. Work in progress
+Correct
+Work in progress. The provided information states that "work in progress" is a delivery measurement
+that indicates the number of work items being worked on at any given time. It is used to help the
+project team limit the number of items in progress to a manageable size, effectively managing the
+project team's workload.
+65. As a project manager, you want to optimize the flow of work in your project and identify areas for
+improvement in the process. Which delivery measurement can be used to calculate the ratio between value-
+adding time and non-value-adding activities in lean systems?
+OA. Lead time
+OB. Cycle time
+OC. Process efficiency
+O D. Queue size
+Correct
+Lead time. Lead time indicates the amount of elapsed time from a story or chunk of work entering
+the backlog to the end of the iteration or the release. While important for measuring elapsed time, it
+does not specifically address process efficiency.
+66. As a project manager, you want to assess whether the project is accomplishing work as planned and whether
+estimates for the amount of work and time are valid. Which schedule measure can help you evaluate actual
+performance compared to planned performance for start and finish dates?
+O A. Schedule variance
+B. Schedule variance
+OC. Schedule performance index (SPI)
+OD. Feature completion rates
+Correct
+Schedule variance (SV) is a schedule measure that compares actual performance to planned
+performance, particularly related to start and finish dates. It is determined by looking at performance
+on the critical path. If the actual start and finish dates deviate from the planned start and finish dates,
+it indicates that the project is not performing to plan.
+67. As a project manager, you want to assess how efficiently the work is being performed with regard to the
+budgeted cost of the work. Which cost measure can help you determine this in the context of earned value
+management?
+OA. Actual cost compared to planned cost
+OB. Cost variance (CV)
+OC. Cost performance index (CPI)
+OD. Cost-benefit ratio
+Correct
+Cost-benefit ratio. The cost-benefit ratio is a measure of the expected present value of an investment
+with the initial cost. It is used to determine if the costs of a project outweigh its benefits. While
+important for evaluating investments, it does not specifically address efficiency in cost
+performance.The cost measure that can help the project manager determine how efficiently the work
+is being performed with regard to the budgeted cost of the work is "Cost performance index (CPI)."
+68. As a project manager, you want to evaluate resource utilization in your project and compare the actual usage
+of resources to the estimated usage. Which resource measurement can help you determine the usage
+variance?
+A. Planned resource utilization compared to actual resource utilization B
+OB. Planned resource cost compared to actual resource cost
+OC. Actual cost compared to planned cost
+OD. Price variance
+Correct
+The provided information states that planned resource utilization compared to actual resource
+utilization is a resource measurement that compares the actual usage of resources to the estimated
+usage. A usage variance is calculated by subtracting the planned usage from the actual usage.
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+"

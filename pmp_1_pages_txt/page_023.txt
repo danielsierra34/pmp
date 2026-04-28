@@ -1,0 +1,56 @@
+101. A project manager is leading a project team that needs to make a critical decision about the selection of a
+development approach. The project manager involves various team members in generating a broad set of
+solution alternatives before converging on a preferred solution. Which decision-making approach is the
+project manager applying in this scenario?
+A. Unilateral decision making
+OB. Group-based decision making
+OC. Consensus decision making
+D. Hierarchical decision making
+1/1 point
+Correct
+The project manager is applying the approach of "Group-based decision making," where the team
+generates a broad set of solution alternatives before converging on a preferred solution.
+102. A project manager is leading a globally distributed project team. The project manager wants to ensure
+effective communication and collaboration among team members. Which technology-based practices can
+help minimize challenges faced by distributed project teams?
+OA. Encouraging in-person meetings only
+B. Using technology for ongoing contact, messaging, and texting
+OC. Avoiding the use of collaboration sites
+D. Eliminating face-to-face interactions
+Correct
+The project manager can use technology for ongoing contact, messaging, and texting to facilitate
+effective communication and collaboration among distributed project teams.
+103. A project manager wants to assess the effectiveness of their application of the Team Performance Domain.
+They are looking for signs that project team members share ownership of the project's outcomes, collaborate
+effectively, and demonstrate applicable leadership skills. Which outcome should the project manager look for
+to confirm these results?
+A. Clear project vision
+OB. High-performing team
+OC. Tailored leadership styles
+OD. Organizational governance structures
+Correct
+The project manager should look for a "High-performing team" as an outcome to confirm that project
+team members share ownership, collaborate effectively, and demonstrate applicable leadership skills.
+1/1 point
+1/1 point
+104. A project manager is leading a software development project that aims to release new features to the market
+every two weeks. Which type of delivery cadence is the project manager using in this scenario?
+1/1 point
+A. Single delivery
+B. Multiple deliveries
+OC. Periodic deliveries
+OD. Incremental deliveries
+Correct
+The project manager is using a "Periodic delivery" cadence, with releases scheduled at regular
+intervals (every two weeks) into the market.
+105. A project manager is working on a project where some deliverables are being developed using an adaptive
+approach, while others are being developed using a predictive approach. Which development approach is the
+project manager using in this scenario?
+1/1 point
+OA. Predictive approach
+OB. Adaptive approach
+OC. Iterative approach
+OD. Hybrid approach
+Correct
+The project manager is using a "Hybrid approach," which combines elements of both adaptive and
+predictive approaches, as different deliverables are developed using different approaches.

@@ -1,0 +1,64 @@
+A. Deliver the software solution as planned, emphasizing its technical features and capabilities.
+B. Provide additional software training to the client to ensure they can effectively use the software.
+C. Collaborate with the client to identify additional deliverables or enhancements that can enable the
+intended productivity improvement.
+OD. Inform the client that the project's scope is fixed and cannot be modified.
+Correct
+The project manager should "Collaborate with the client to identify additional deliverables or
+enhancements that can enable the intended productivity improvement." This approach aligns with
+the concept of value engineering and focusing on outcomes. By working with the client to identify
+additional elements (such as training and enhancements) that contribute to the intended productivity
+improvement, the project manager maximizes value and ensures that the project outcomes align with
+the client's objectives.
+33. A project manager is leading a project that is part of a larger program aimed at transforming an organisation's
+customer service processes. The project has been successfully delivering its planned outcomes, but the
+project manager wants to ensure that the value contribution is properly evaluated and aligned with the
+program's objectives. What should the project manager do to address this concern?
+A. Request an extension of the project timeline to allow for a comprehensive value evaluation.
+B. Focus solely on the project's deliverables and technical achievements to demonstrate value.
+C. Collaborate with program leaders to evaluate the value contribution within the context of the
+program's objectives.
+D. Provide detailed documentation of the project's activities and tasks to showcase value.
+Correct
+The project manager should "Collaborate with program leaders to evaluate the value contribution
+within the context of the program's objectives." In the context of a program, evaluating value at the
+program level is important to properly direct the project and ensure alignment with the overall
+program objectives.
+1/1 point
+34. A project manager is leading a complex construction project involving multiple teams responsible for
+different aspects of the project, such as architecture, electrical, and structural engineering. The project is part
+of a larger program aimed at revitalising an urban area. How should the project manager approach the
+integration of subsystems to ensure the project's success within the larger context?
+1/1 point
+A. Keep each team focused solely on their specific tasks to minimise complexity.
+B. Require each team to work independently to maintain control over their respective subsystems.
+OC. Encourage regular interaction and alignment among the different teams to ensure effective
+integration of subsystems.
+D. Assign a dedicated project manager to oversee each subsystem independently.
+Correct
+The project manager should "Encourage regular interaction and alignment among the different teams
+to ensure effective integration of subsystems." This approach aligns with systems thinking and
+acknowledges the interconnected nature of subsystems within the larger project. Regular interaction
+and alignment among different teams are essential to ensure that subsystems integrate effectively
+and contribute to the intended project outcomes.
+35. A project manager is overseeing the development of a new software application that will be integrated into an
+existing system used by the organization. The project team is encountering challenges in ensuring seamless
+integration and interactions between the new application and the existing system. What approach should the
+project manager take to address these challenges?
+A. Proceed with the development of the new application independently and address integration issues
+later.
+B. Focus solely on the technical aspects of the new application to ensure its functionality.
+C. Collaborate with the stakeholders from both the project team and the existing system to identify and
+address integration challenges.
+D. Delay the development of the new application until the existing system is no longer in use.
+Correct
+The project manager should "Collaborate with the stakeholders from both the project team and the
+existing system to identify and address integration challenges." This approach aligns with systems
+thinking by recognizing the need to engage stakeholders and address challenges related to
+integration and interactions between different parts of the system.
+1/1 point
+36. A project manager is leading a cross-functional team composed of members from various departments within
+an organisation. The team is working on a project that involves implementing a new software system to
+streamline business processes. The team members have diverse backgrounds and perspectives. Which skill is
+crucial for the project manager to effectively manage this diverse team and navigate changing system
+1/1 point

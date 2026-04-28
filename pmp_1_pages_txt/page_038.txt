@@ -1,0 +1,56 @@
+164. The project manager is analyzing data, observing processes, and reviewing defect logs to draw out and
+document requirements. Which activity is the project manager engaged in?
+A. Eliciting requirements through interviews
+B. Eliciting requirements through data analysis
+C. Documenting completed requirements
+OD. Eliciting requirements through stakeholder agreement
+Correct
+The project manager is engaging in the activity of eliciting requirements through data analysis, which
+involves analyzing data, observing processes, and reviewing defect logs to draw out and document
+requirements.
+165. The project manager is responsible for managing requirements to avoid rework, scope creep, and project
+failure. What method is often used to manage requirements flexibly and ensure stakeholder agreement?
+O A. Backlogs
+B. Traceability matrices
+OC. Technical performance measures
+OD. Verification processes
+Correct
+The use of backlogs is often employed to manage requirements flexibly, ensure stakeholder
+agreement, and avoid rework, scope creep, and project failure.
+166. The project team is analyzing project performance measures to identify potential performance variances
+before they cross tolerance thresholds. Which type of indicators are they using for this purpose?
+A. Lagging indicators
+OB. Leading indicators
+OC. Predictive indicators
+OD. Predictive indicators
+Correct
+The project team is using leading indicators to predict changes or trends in project performance and
+identify potential performance variances before they cross tolerance thresholds.
+167. Project metrics are being evaluated to ensure they provide value and actionable information. Which
+characteristic of effective metrics ensures that measurements are tied to the business case or baselines?
+A. Specific
+OB. Achievable
+O C. Meaningful
+OD. Timely
+Correct
+The characteristic of being "Meaningful" ensures that measures are tied to the business case,
+baselines, or requirements.
+168. The project manager is analyzing the number of defects identified and resolved in the project deliverables.
+Which category
+f metrics does this analysis fall under?
+A. Business value metrics
+B. Resources metrics
+O C. Deliverable metrics
+OD. Stakeholders metrics.
+Correct
+Analyzing the number of defects identified and resolved in project deliverables falls under the
+category of "Deliverable metrics."
+169. The project team is using measures to evaluate performance compared to the plan and to track resource
+utilization. Which category of metrics does this relate to?
+O A. Baseline performance metrics
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

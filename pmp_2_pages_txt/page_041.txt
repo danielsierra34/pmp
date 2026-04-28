@@ -1,0 +1,53 @@
+173. You are tasked with estimating project work using an approach that assesses cost or duration by applying
+optimistic, pessimistic, and most likely estimates. Which estimating method should you use for this purpose?
+1/1 point
+OA. Affinity Grouping
+OB. Parametric Estimating
+C. Multipoint Estimating
+OD. Relative Estimating
+Correct
+c):Multipoint Estimating (Option 3) is the right choice because it assesses cost or duration using
+multiple estimates, considering optimistic, pessimistic, and most likely scenarios.
+174. In a project that follows a process-based approach, which process grouping involves obtaining final
+acceptance of the delivered scope and indicates that the product delivery is complete?
+OA. Initiating
+B. Planning
+OC. Executing
+OD. Closing
+Correct
+d): The Closing process grouping involves formally completing or closing a project, phase, or contract.
+It includes obtaining final acceptance of the delivered scope from relevant stakeholders.
+175. You are a project manager facing a conflict between two key stakeholders who have different opinions on the
+project's scope. Both parties trust each other's judgment, and there is a desire to maintain a good
+relationship. Which conflict resolution style should you adopt in this situation?
+A. Collaborating
+OB. Confronting/problem solving
+O C. Compromising
+OD. Avoiding
+Correct
+Collaborating involves incorporating multiple views about the conflict and seeking consensus. This
+style is effective when there is trust among participants and time to reach an agreement, making it
+suitable for resolving conflicts between stakeholders with differing opinions.
+176. You are managing a project with two team members who have differing opinions on the best approach to
+complete a critical project task. Time is of the essence, and both team members are equally knowledgeable
+about the task. Which conflict resolution style is most appropriate to ensure a timely resolution?
+○ A. Collaborating
+OB. Confronting/problem solving
+OC. Compromising
+O D. Avoiding
+Correct
+b):Confronting/problem solving treats conflict as a problem to be solved, making it suitable when
+timely resolution is important. Since both team members have confidence in each other's abilities,
+this style allows them to work together to address the conflict and find a solution quickly.
+177. You are a project manager leading a newly formed project team. During the initial stages, team members are
+starting to figure out their roles and interfaces with each other. Some conflicts and challenges are emerging as
+they learn to work together. Which stage of team development according to the Tuckman Ladder model is
+your team currently in?
+OA. Norming
+OB. Forming
+C. Storming
+OD. Performing
+1/1 point
+1/1 point
+1/1 point
+1/1 point

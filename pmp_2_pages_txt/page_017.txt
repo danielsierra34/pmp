@@ -1,0 +1,58 @@
+69. As a project manager, you want to measure the financial return compared to the cost of your project
+investment. Which business value metric can help you assess the expected present value of an investment
+with the initial cost?
+OA. Cost-benefit ratio
+OB. Planned benefits delivery compared to actual benefits delivery
+OC. Return on investment (ROI)
+OD. Net present value (NPV)
+Correct
+The cost-benefit ratio is a business value metric that measures the expected present value of an
+investment with the initial cost. The cost-benefit ratio is used to determine if the costs of a project
+outweigh its benefits. If the costs are greater than the benefits, the result will be greater than 1.0,
+indicating that the project should not be considered unless there are regulatory, social good, or other
+reasons to do the project.
+70. As a project manager, you want to evaluate the efficiency of the work process and optimize the flow of work
+in your project. Which resource measurement calculates the ratio between value-adding time and non-value-
+adding activities in lean systems?
+A. Planned resource utilization compared to actual resource utilization
+OB. Process efficiency
+O C. Queue size
+OD. Batch size
+Correct
+Planned resource utilization compared to actual resource utilization. Planned resource utilization
+compared to actual resource utilization is a resource measurement that compares the actual usage of
+resources to the estimated usage. It does not directly address process efficiency or the ratio between
+value-adding time and non-value-adding activities.
+71. As a project manager, you want to measure stakeholder satisfaction and loyalty to your project. Which metric
+measures the degree to which a stakeholder is willing to recommend the project's deliverables to others?
+A. Mood chart
+B. Net Promoter Score®
+O C. Morale
+OD. Turnover
+Correct
+Net Promoter Score (NPS). The Net Promoter Score (NPS) measures the degree to which a
+stakeholder, usually the customer, is willing to recommend a product or service (in this case, project
+deliverables) to others. It provides insight into stakeholder satisfaction and loyalty. The NPS ranges
+from -100 to +100, with higher scores indicating higher satisfaction and potential loyalty.
+72. As a project manager, you want to assess the mood and reactions of your project team. Which visual
+representation can help you track the mood or reactions of the project team on a daily basis?
+OA. Net Promoter Score (NPS)
+B. Mood chart using emojis
+O C. Morale survey
+OD. Turnover rate analysis
+Correct
+A mood chart using emojis is a visual representation that can help track the mood or reactions of the
+project team on a daily basis. Project team members can use colors, numbers, or emojis to indicate
+their frame of mind at the end of each day. This tracking can assist in identifying potential issues and
+areas for improvement
+73. As a project manager, you want to estimate the expected total cost of completing all work in your project.
+Which earned value management measure provides this forecast?
+O A. Variance at completion (VAC)
+O B. To-complete performance index
+C. Estimate at completion
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+"

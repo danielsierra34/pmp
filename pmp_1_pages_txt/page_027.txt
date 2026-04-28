@@ -1,0 +1,57 @@
+Correct
+The "Feasibility phase" determines if the business case is valid and if the organization has the
+capability to deliver the intended outcome.
+122. A project manager is overseeing a project that involves adding functionality to the initial build in three
+iterations of plan, design, and build. Which type of development approach is most likely being used for this
+scenario?
+A. Predictive approach
+OB. Adaptive approach
+O C. Incremental approach
+OD. Hybrid approach
+Correct
+An "Incremental development approach" involves adding functionality in iterations, which aligns with
+the described scenario.
+123. A project manager is working on a project where the customer reviews a functional deliverable at the end of
+each iteration (sprint), providing feedback for the project team to update the project backlog. Which type of
+life cycle is being described in this scenario?
+OA. Predictive life cycle
+B. Incremental life cycle
+OC. Iterative life cycle
+OD. Adaptive life cycle
+Correct
+The described life cycle, where the customer reviews a functional deliverable at the end of each
+iteration, aligns with an "Adaptive life cycle."
+124. A project manager is working on a project that requires extensive up-front planning and control, with a focus
+on measuring and managing progress. Which development approach is likely to align with this project's
+planning needs?
+OA. Adaptive approach
+O B. Predictive approach
+OC. Incremental approach
+D. Hybrid approach
+Correct
+A "Predictive approach" aligns with extensive up-front planning, control, and measurement of
+progress, as described in the scenario.
+125. A project involves a deliverable with significant risk associated with meeting regulatory requirements. Which
+development approach would be appropriate to build in extra testing, documentation, and robust processes?
+OA. Adaptive approach
+B. Incremental approach
+C. Predictive approach
+OD. Hybrid approach
+Correct
+A "Predictive approach" would be appropriate
+build in extra testing, documentation, and robust
+processes to address the risk associated with regulatory requirements.
+126. A project manager is working on a construction project. Which approach can be used to decompose the
+project scope and account for design, approvals, materials purchasing, logistics, and delivery?
+O A. Using iterative planning
+OB. Applying flow-based estimating
+C. Using adaptive planning
+OD. Employing a work breakdown structure (WBS)
+Correct
+Employing a "work breakdown structure (WBS)" is a common approach to decompose project scope
+and account for various aspects, including design, approvals, materials purchasing, logistics, and
+1/1 point
+1/1 point
+1/1 point
+1/1 point
+1/1 point

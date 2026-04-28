@@ -1,0 +1,57 @@
+OD. Time spent planning is appropriate for the situation.
+Correct
+Focusing on the outcome of appropriate time spent planning ensures that planning efforts are not
+excessive or insufficient. It helps strike a balance between having enough information to move
+forward efficiently and avoiding unnecessary detailed planning.
+33. You are managing a construction project that requires significant upfront planning to account for design,
+materials purchasing, logistics, and delivery. Which planning approach would be most suitable for this
+project?
+O A. Adaptive planning approach.
+OB. Hybrid planning approach.
+OC. Incremental planning approach.
+D. Predictive planning approach.
+Correct
+For a construction project with significant upfront planning requirements, a predictive planning
+approach would be most suitable. A predictive approach relies on upfront planning and establishing
+detailed plans before the project execution begins, which aligns with the needs of a construction
+project.
+34. You are managing a project that follows an iterative or incremental development approach. The project
+scope is uncertain, and the team wants to prioritize work that is unique, significant, risky, or novel to reduce
+uncertainty. Which approach does the project team plan to use for prioritizing work?
+O A. Rolling wave planning.
+OB. Progressive elaboration planning.
+OC. Concept of last responsible moment.
+OD. Adaptive planning.
+Incorrect
+Adaptive planning. Adaptive planning is a characteristic of Agile approaches, which focus on flexibility
+and responding to change. While Agile approaches can work well with iterative or incremental
+development, the concept of last responsible moment is a specific approach used for prioritizing work
+in such scenarios.Using the concept of last responsible moment would align with the project team's
+objective to prioritize work to reduce uncertainty effectively.
+35. You are in the early stages of a project, and the project team is developing estimates for work effort, duration,
+costs, and resources. The project is currently exploring the opportunity and has limited information available.
+What can you expect regarding the range of estimates at this stage?
+OA. A narrow range of estimates.
+B. A range of -25% to +75%
+OC. A range of -5% to +10%
+OD. A range that remains constant throughout the project.
+Correct
+In the early stages of a project, when there is limited information available and much uncertainty,
+estimates tend to have a broad range. A range of -25% to +75% is common at this stage, indicating the
+potential variation from the initial estimate.
+36. You are managing a construction project that is behind schedule, and the project team is exploring options
+for schedule compression. They want to reduce the duration for the least incremental cost. Which schedule
+compression method should the team consider?
+OA. Fast tracking
+OB. Deterministic estimating
+OC. Crashing
+OD. Flow-based estimating
+Correct
+Crashing. Crashing is a schedule compression method that seeks to shorten the project duration for
+the least incremental cost. It involves options like adding resources, working overtime, or expediting
+deliveries to reduce the project timeline.
+1/1 point
+1 point
+1/1 point
+1/1 point
+"

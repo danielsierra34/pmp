@@ -1,0 +1,63 @@
+dynamics?
+A. Relying solely on internal review and advice to maintain control over the project.
+B. Limiting communication to project progress and projections only within the project team.
+OC. Challenging assumptions and mental models to encourage critical thinking and open dialogue
+among team members.
+◇ D. Avoiding the use of integrated methods and artefacts to prevent confusion among team members.
+Correct
+The skill that is crucial for the project manager in this scenario is "Challenging assumptions and
+mental models to encourage critical thinking and open dialogue among team members." This skill
+promotes effective collaboration, understanding, and alignment among team members with diverse
+backgrounds and perspectives, enabling them to navigate changing system dynamics and work
+cohesively towards project success.
+37. During the execution of a construction project, unexpected changes in regulatory requirements have
+impacted the project schedule and budget. How can recognizing and responding to these system interactions
+positively affect the project outcome?
+OA. Ignoring the changes and maintaining the original schedule and budget.
+B. Making isolated adjustments to the affected tasks without considering the larger project context.
+C. Proactively adjusting assumptions and plans based on the changing system dynamics.
+◇ D. Communicating changes only to the project team without involving external stakeholders.
+Correct
+The positive outcome can be achieved by "Proactively adjusting assumptions and plans based on the
+changing system dynamics." Recognizing and responding to system interactions, such as regulatory
+changes, by adjusting assumptions and plans allow the project to address uncertainties, explore
+alternatives, and consider unintended consequences, leading to a more informed and adaptable
+project outcome.
+38. A project manager is overseeing a project that involves implementing a new customer relationship
+management (CRM) system for a sales team. The project team is focused on meeting technical specifications
+and functionality requirements. However, some team members have concerns that the new CRM system may
+not align well with the sales team's workflows and preferences. How can the project manager leverage
+systems thinking to address this situation?
+A. Ignore the concerns of team members and proceed with implementing the CRM system as planned.
+B. Suggest the sales team adapt their workflows to match the new CRM system.
+C. Engage in dialogue with the sales team to understand their workflows and preferences, and make
+adjustments to the CRM system accordingly.
+OD. Assign the responsibility of addressing the alignment issues to a separate team without involving the
+project manager.
+Correct
+The project manager should "Engage in dialogue with the sales team to understand their workflows
+and preferences, and make adjustments to the CRM system accordingly." This approach aligns with
+systems thinking by recognizing the need to consider the larger system (sales team workflows) and
+respond to system interactions to ensure successful project outcomes that align with stakeholders'
+needs.
+1/1 point
+1/1 point
+39. A project manager is leading a team composed of members from different cultural backgrounds. The team is
+working on a complex project that requires close collaboration and effective communication. Some team
+members prefer detailed instructions and clear guidelines, while others thrive in a more flexible and creative
+environment. What approach should the project manager take to demonstrate effective leadership behaviors
+in this diverse team?
+A. Implement a strict top-down approach to ensure consistency and adherence to guidelines.
+OB. Provide the same level of guidance and instruction to all team members to avoid any confusion.
+OC. Adapt the leadership style based on individual team members' preferences and cultural
+backgrounds.
+OD. Assign tasks and responsibilities based on team members' technical expertise only.
+Correct
+The project manager should "Adapt the leadership style based on individual team members'
+preferences and cultural backgrounds." Effective leaders recognize differences in motivation among
+project team members and adapt their leadership behaviors to support individual and team needs.
+This approach enhances collaboration and communication within a diverse team and contributes to
+positive project outcomes.
+1/1 point
+40. A project manager is leading a team in a project environment characterised by high levels of ambiguity,
+1/1 point

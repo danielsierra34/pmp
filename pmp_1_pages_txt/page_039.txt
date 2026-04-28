@@ -1,0 +1,55 @@
+OB. Stakeholders metrics
+OC. Resources metrics
+D. Business value metrics
+Correct
+Using measures to evaluate performance compared to the plan and track resource utilization falls
+under the category of "Baseline performance metrics."
+170. The project manager is quantifying measures to ensure that system components meet technical requirements
+and provide insights into progress. Which type of measures is the project manager using?
+O A. Leading indicators
+OB. Lagging indicators
+C. Technical performance measures
+OD. Performance metrics
+Correct
+The project manager is using "Technical performance measures" to ensure that system components
+meet technical requirements and provide insights into progress.
+1/1 point
+171. The project manager emphasizes the importance of timely measurements, where old information is not as
+useful as fresh information. Which characteristic of effective metrics does this highlight?
+1/1 point
+O A. Timely
+B. Achievable
+C. Relevant
+OD. Specific
+Correct
+The emphasis on the importance of timely measurements highlights the characteristic of being
+"Timely."
+172. The project manager assesses stakeholder satisfaction by conducting interviews, observing, and collecting
+end user feedback. Which category of metrics is the project manager focusing on?
+A. Business value metrics
+OB. Deliverable metrics
+C. Stakeholders metrics
+OD. Resources metrics
+Correct
+Assessing stakeholder satisfaction through interviews, observation, and end user feedback falls under
+the category of "Stakeholders metrics."
+173. The project team realizes that the value of measurements lies not in collecting data, but in using the data to
+take appropriate actions. This understanding aligns with which concept mentioned in the excerpt?
+OA. Leading indicators
+OB. Lagging indicators
+OC. Use of KPIs
+OD. Use of measures
+Correct
+The understanding that the value of measurements is in using the data to take appropriate actions
+aligns with the concept of the "Use of measures."
+174. The project manager focuses on measures that provide information about physical or functional attributes of
+the project's deliverables. Which type of measures is the project manager using?
+A. Leading indicators
+OB. Lagging indicators
+O C. Technical performance measures
+D. Business value metrics
+Correct
+Focusing on measures that provide information about physical or functional attributes of deliverables
+1/1 point
+1/1 point
+1/1 point

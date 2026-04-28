@@ -1,0 +1,78 @@
+and employ the Stacey Matrix to classify the project as "complex" due to changing industry dynamics.
+C. Recognize the project as "complex" using both the Cynefin framework and the Stacey Matrix,
+promoting adaptive and emergent approaches to address evolving requirements and technology.
+OD. Use the Cynefin framework to define the project as "simple," based on established best practices,
+and rely on the Stacey Matrix to identify the project as "complicated" due to changing industry
+dynamics
+Correct
+c)In a dynamic and rapidly changing industry with evolving requirements and technology, the project
+is likely to exhibit characteristics of complexity, it suggests recognizing the project as "complex" using
+both the Cynefin framework and the Stacey Matrix. This approach aligns with the nature of the
+project's uncertainty and provides a comprehensive perspective on managing complexity.The Cynefin
+framework's "complex" context acknowledges that there are unknown unknowns and no obvious
+right answers. This calls for an approach of probing, sensing, and responding, allowing for adaptive
+practices as the environment changes.The Stacey Matrix's "complex" classification highlights the
+challenges arising from evolving requirements and technology. This requires a tailored and flexible
+approach that accommodates uncertainty and enables learning through trial and error.
+127. You're managing a project team that is currently experiencing conflicts and struggles among its members.
+How would you utilize Bruce Tuckman's stages of team development to address the team's challenges and
+guide them toward becoming a high-performing project team? Provide an example of how you would
+navigate through at least two stages of team development in this scenario.
+OA. Immediately intervene and enforce strict rules and roles to suppress conflicts and restore order
+within the team.
+B. Allow conflicts to escalate naturally, trusting that the team will work things out on their own over
+time.
+OC. Organize a team-building retreat to address conflicts and build relationships, disregarding the
+project's tight timeline
+D. Facilitate open discussions among team members to address conflicts, encourage understanding,
+and promote collaboration.
+Correct
+d): Facilitate open discussions among team members to address conflicts, encourage understanding
+and promote collaboration. Explanation: In this scenario, the right approach is to create an
+environment where team members can openly discuss their conflicts and work towards resolutions.
+This aligns with Tuckman's "storming" stage, where conflicts arise as team members express their
+individuality and jockey for positions. By facilitating open discussions, you encourage transparency,
+help team members understand each other's viewpoints, and guide them toward finding common
+ground. Additionally, as the team progresses into the "norming" stage, they will start to establish
+norms, resolve issues, and focus on collaboration.
+128. You've been appointed as the project manager for a newly formed team tasked with developing a cutting-
+edge technology solution. The project is complex and demanding, requiring a cohesive and high-performing
+team. How would you apply Allan Drexler and David Sibbet's Team Performance Model to establish a strong
+foundation for your team and ensure their sustainability and high performance throughout the project
+lifecycle?
+A. Assign tasks to team members without discussing the purpose or goals of the project, assuming they
+will figure it out as they work.
+OB. Organize a team-building workshop focused solely on building trust, without clarifying project goals
+or objectives.
+C. Clearly communicate the purpose, mission, and goals of the project to the team in a kickoff meeting
+ensuring everyone understands the project's significance and their roles.
+OD. Delegate decision-making authority to team members without any guidance, allowing them to
+determine their own goals and methods.
+Correct
+c):Clearly communicate the purpose, mission, and goals of the project to the team in a kickoff
+meeting, ensuring everyone understands the project's significance and their roles. Explanation: In this
+scenario, the right approach is to provide a clear orientation to the team by communicating the
+purpose, mission, and goals of the project. This aligns with the first step of the Drexler/Sibbet Team
+Performance Model, which emphasizes creating a strong foundation by helping the team understand
+the "why" of the project. This will give team members a sense of direction and purpose, enabling
+them to work cohesively towards a common goal
+129. Your project team is encountering difficulties in managing conflicts and maintaining collaboration. How
+would you use the conflict model to address the conflict and enhance collaboration within your team?
+Provide an example of how you would apply at least one conflict resolution style to improve the team's
+dynamics.
+A. Ignore the conflicts and hope that they will resolve themselves over time.
+OB. Confront the conflicts directly and assert your own solution to resolve the issues.
+C. Collaborate with the team members involved in the conflicts, facilitating open communication and
+working together to find a mutually acceptable solution.
+OD. Compromise by finding a middle ground between the conflicting parties, even if it means sacrificing
+some team objectives.
+Correct
+c):The right approach is to collaborate with the team members to address conflicts and enhance
+collaboration. The conflict model emphasizes the importance of collaboration and understanding
+different perspectives. By engaging in open communication, involving the team members in finding a
+solution, and working together, you can effectively address conflicts and create an environment of
+improved collaboration and teamwork.
+1/1 point
+1/1 point
+1/1 point
+"

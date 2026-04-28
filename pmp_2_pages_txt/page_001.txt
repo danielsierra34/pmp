@@ -1,0 +1,75 @@
+Back Practice Assignment-
+Your grade: 99.44%
+Your latest: 99.44% ⚫Your highest: 99.44%. To pass you need at least 80%. We keep your highest score.
+Next item →
+1. As a project manager working on a large construction project, you are responsible for achieving the project
+objectives and delivering value for the stakeholders. The project involves creating a new state-of-the-art
+building for a university campus. What are some ways this project can deliver value to the organization and
+stakeholders beyond the physical building's construction?
+1/1 point
+C. Implementing sustainable building practices to reduce energy consumption and environmental
+impact.
+A. Completing the construction on time and within budget to meet the project's objectives and deliver
+value
+OB. Enhancing the building's architectural design to make it visually appealing and attractive to
+potential students and visitors.
+OD. Organizing a grand opening event to celebrate the completion of the building and invite key
+stakeholders.
+Correct
+The project manager ensures that the project's outcomes have a broader intent of delivering value
+and benefits beyond the immediate construction phase.Implementing sustainable building practices
+is the correct option. This approach delivers value by reducing the building's energy consumption,
+environmental impact, and operational costs over time. It aligns with the concept of creating positive
+social and environmental contributions.
+2. You are a project manager leading a complex IT project that is part of a larger program aimed at transforming
+the company's digital infrastructure. Your project team is also working with other project teams, and all of
+them together contribute to achieving the program's strategic objectives. How can you ensure effective
+information flow among the various components (portfolios, programs, projects, and operations) to keep the
+system aligned with the company's strategy and responsive to the dynamic environment?
+3.
+C. Rely on informal communication channels among project managers to disseminate critical
+information across project teams.
+OD. Assign a single point of contact from the project team to be responsible for sharing information with
+other teams and program management.
+A. Hold weekly team meetings to discuss project progress and issues, without involving other project
+teams or program management.
+B. Implement a centralized communication platform where all project-related information is shared,
+accessible, and updated by all project team members.
+Correct
+The project manager establishes a systematic and inclusive approach to communication, facilitating
+collaboration, alignment, and responsiveness among the various components involved in the
+program.Implementing a centralized communication platform is the correct option. It enables
+transparent and efficient information flow among all the components, including portfolios, programs,
+projects, and operations. This approach ensures that all relevant stakeholders have access to up-to-
+date information, fostering alignment with the company's strategy
+You are a project manager leading a critical project within a large organization. The project involves
+implementing a new software system that will streamline various business processes. The project is part of a
+broader digital transformation program. As the project progresses, you notice that there are multiple changes
+and risks emerging from the dynamic environment. How can you ensure effective governance to manage
+these changes and risks, considering the project's integration with the program and the organization's
+strategic objectives?
+A. Delegate the governance responsibilities to the project team and program manager, allowing them
+to independently manage changes and risks.
+B. Implement a centralized governance structure with designated oversight bodies to evaluate changes,
+issues, and risks across the project and program.
+OC. Rely on informal communication channels among stakeholders to address changes and risks as they
+OD. Assign individual project team members to manage specific governance aspects, such as risk
+management or change control.
+Correct
+Implementing a centralized governance structure ensures that all changes, issues, and risks are
+evaluated collectively, considering the project's integration with the program and alignment with the
+organization's strategic objectives. Such a structure allows for timely decision-making, coordination
+among stakeholders, and a holistic view of the project's progress and impacts on the broader digital
+transformation program. It provides a mechanism to manage changes and risks in a systematic and
+well-coordinated manner, enabling the project manager to align project activities with strategic
+objectives and respond proactively to the dynamic environment.
+1/1 point
+1/1 point
+Scenario: You are a project manager leading a complex construction project, and you have a diverse project
+team with members from various departments within the organization. As the project progresses, you
+observe that coordination and collaboration among team members are becoming challenging due to the
+project's size and complexity. How can you facilitate effective coordination and collaboration among the
+project team members to ensure successful project delivery?
+1/1 point
+O A. Implement a centralized coordination approach, where all decisions and actions are directed by the
+project manager, ensuring smooth workflows.

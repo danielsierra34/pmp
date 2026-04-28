@@ -1,0 +1,53 @@
+OC. Opportunity reserve
+D. Management reserve
+Correct
+b) The budget category set aside to address identified risks should they occur is called "Contingency
+reserve." It is a provision within the overall project budget to handle the impact of identified risks.
+88. As a project manager, you have implemented risk responses to address identified risks. What should you
+review to assess the effectiveness of the planned responses?
+OA. Stakeholder engagement
+OB. Schedule performance
+OC. Secondary risks
+OD. Resource allocation
+Correct
+c)As a project manager, you should review the planned risk responses to assess whether they have
+added any secondary risks. Secondary risks are risks that arise as a result of implementing certain risk
+responses. This review is important to ensure that the planned responses do not inadvertently create
+new risks.
+89. As a project manager, you want to ensure that your team is proactively exploring and responding to
+uncertainty. What should you assess to determine if risk responses are aligned with project constraints?
+OA. Resource availability
+OB. Project objectives
+OC. Stakeholder communication
+OD. Risk appetite
+Correct
+b) To ensure that risk responses are aligned with project constraints, you should assess whether they
+are aligned with the prioritization of project constraints, such as budget, schedule, and performance.
+The risk responses should be designed to support the achievement of project objectives.
+1/1 point
+1/1 point
+90. As a project manager, you have identified a potential threat that may have a significant negative impact on
+the project objectives. However, the project team agrees that no proactive action is planned for this threat.
+What is the appropriate term for this strategy?
+1/1 point
+OA. Exploit
+O B. Avoid
+OC. Mitigate
+OD. Accept
+Correct
+d)The appropriate term for a strategy where the existence of a threat is acknowledged, but no
+proactive action is planned to address it is "Accept." Accepting a risk means that the project team
+acknowledges the risk's existence but chooses not to take any proactive action to avoid or mitigate it.
+91. You are putting together a project team to deliver an accounting system to offices around the country. The
+accounting system you are moving to has not been used by anyone in your organisation before. The project is
+quite high risk, and the delivery needs to be right the first time. What will you do next?
+1/1 point
+OA. Select a small team that can work in the same area so they can solve problems as they arise.
+B. Use a predictive project approach and source part of your team externally if they have skillsets in the
+new system.
+OC. Train existing internal staff in the new system then have them work on the project.
+OD. Perform a make or buy analysis on the different software options.
+Correct
+b) The benefit that outside skills bring to the project are weighed against the costs that will be
+incurred. With higher risk and a single delivery, a waterfall or predictive project delivery approach is
+best.

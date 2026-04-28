@@ -1,0 +1,61 @@
+24. You are leading a project that involves developing a new innovative product with a high degree of
+uncertainty. The project team members have limited experience with similar projects. Which development
+approach would be most suitable to manage this project effectively?
+OA. Predictive approach.
+OB. Hybrid approach.
+OC. Adaptive approach.
+OD. Iterative approach.
+Correct
+For a project with a high degree of uncertainty and limited experience with similar projects, an
+adaptive approach would be the most suitable development approach. The adaptive approach, also
+known as agile, is well-suited for projects where requirements are subject to change and evolve
+throughout the project. It allows the project team to adapt to emerging requirements and learn from
+the process to deliver the most valuable product.
+1/1 point
+25. You are in the process of selecting a development approach for a project. The project deliverable involves a
+new technology that has not been previously used by your organization. What should you consider when
+selecting the development approach?
+1/1 point
+A. The organization's familiarity with the technology to determine scope stability.
+OB. The ease of incorporating changes to the technology during the project.
+C. The industry's regulatory requirements to guide the development approach.
+OD. The size and budget of the project to identify the most suitable approach.
+Correct
+When selecting a development approach for a project involving a new technology, considering the
+organization's familiarity with the technology is essential. If the organization has previous experience
+and expertise with the technology, the scope may be more stable, making a predictive approach
+viable. On the other hand, if the technology is entirely new to the organization and subject to change,
+an adaptive approach may be more suitable to accommodate evolving requirements.
+26. You are managing a project that requires frequent deliveries of functional increments to gather stakeholder
+feedback and prioritize further development. The project budget is uncertain, and you need to minimize
+initial investments while capturing market opportunities. Which development approach would be most
+suitable for this project?
+O A. Predictive approach.
+OB. Hybrid approach.
+OC. Adaptive approach.
+OD. Incremental approach.
+Correct
+An adaptive approach, such as Agile, would be the most suitable development approach for this
+project. The need for frequent deliveries of functional increments to gather stakeholder feedback
+aligns with the iterative and incremental nature of the adaptive approach. Additionally, an adaptive
+approach allows for capturing market opportunities with a minimum viable product, which is ideal
+when the project budget is uncertain.
+27. You are assigned to manage a project in an organization with a culture of closely managing and directing
+projects. The project team consists of experienced members with expertise in similar projects. The project
+requires delivering a complex system with several integrated components. Which development approach
+would be most appropriate for this project?
+A. Predictive approach.
+OB. Hybrid approach
+OC. Adaptive approach.
+OD. Incremental approach.
+Correct
+In an organization with a culture of closely managing and directing projects, and with an experienced
+project team, a predictive approach would be the most appropriate development approach for this
+project. The predictive approach aligns well with organizations that emphasize planning, control, and
+stability, which is suitable for delivering a complex system with integrated components.
+1/1 point
+1/1 point
+28. You are managing a project for developing a new mobile application. The project aims to deliver the core
+features of the application in early increments to gain early user feedback and improve subsequent deliveries.
+Which life cycle and development approach combination would be most appropriate for this project?
+1/1 point

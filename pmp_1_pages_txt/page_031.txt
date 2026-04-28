@@ -1,0 +1,35 @@
+OB. Discretionary dependency
+OC. Internal dependency
+OD. External dependency
+Correct
+D) The scenario describes a relationship between project activities and activities outside of the
+project scope, which aligns with an "external dependency."
+140. A project manager is estimating the duration of an activity in the early stages of a project when there is
+limited information available. Which statement about estimating range is most accurate in this scenario?
+1/1 point
+A. The estimate will have high precision due to the limited information.
+B. The estimate will have low accuracy and low precision.
+OC. The estimate will have a broad range due to the limited information.
+D. The estimate will have high accuracy due to the early stage of the project.
+Correct
+C In the early stages of a project with limited information, estimates tend to have
+account for uncertainty and the lack of detailed information.
+broad range to
+141. A project team is using an adaptive approach and has divided their work into timeboxes. The team estimates
+the work for each timebox, self-manages, and demonstrates completed work at the end. Which aspect of
+adaptive planning is being described here?
+1/1 point
+A. High-level release planning
+OB. Incremental planning
+OC. Value-driven iterations
+OD. Hybrid approach
+Correct
+C The described scenario of dividing work into timeboxes, estimating work, self-management, and
+demonstrating completed work at the end aligns with the concept of "value-driven iterations."
+142. A project manager analyzing dependencies between activities and identifies a relationship based on best
+practices and project preferences. What type of dependency is being described in this scenario?
+1/1 point
+OA. Mandatory dependency
+OB. External dependency
+OC. Discretionary dependency
+OD. Internal dependency

@@ -1,0 +1,55 @@
+OD. Iteration plan
+Correct
+c):The cost management plan is a component of the project or program management plan that
+describes how costs will be planned, structured, and controlled for the project.
+153. You are tasked with creating a hierarchical representation that illustrates the relationship between project
+activities and the organizational units that will perform those activities. Which artifact should you develop for
+this purpose?
+A. Organizational breakdown structure
+B. Product breakdown structure
+OC. Resource breakdown structure
+OD. Risk breakdown structure
+Correct
+An organizational breakdown structure is a hierarchical representation of the project organization,
+illustrating the relationship between project activities and the organizational units that will perform
+those activities.
+1/1 point
+154. Your project team needs to compare actual performance to approved versions of work products or plans to
+identify variances. Which type of baseline would you use to compare actual results with a pre-approved scope
+statement, work breakdown structure (WBS), and associated WBS dictionary?
+1/1 point
+A. Budget
+B. Milestone schedule
+OC. Performance measurement baseline
+D. Scope baseline
+Correct
+d):A scope baseline is the approved version of a scope statement, work breakdown structure (WBS),
+and its associated WBS dictionary that serves as the basis for comparison with actual results to
+identify variances.
+155. You're analyzing the relationship between two variables in your project and need a graphical representation.
+Which visual data artifact would you use to depict this relationship?
+OA. Affinity diagram
+OB. Burndown/burnup chart
+OC. Cause-and-effect diagram
+OD. Scatter diagram
+Correct
+d): A scatter diagram is used to show the relationship between two variables, making it suitable for
+depicting the relationship between two aspects in your project.
+156. Your project requires procuring goods and services from outside performing organization. However, the
+project scope is subject to frequent change. Which type of contract would you most likely use in this scenario?
+O A. Fixed-price contract
+OB. Cost-reimbursable contract
+OC. Time and materials contract
+OD. Indefinite delivery indefinite quantity (IDIQ) contract
+Correct
+b):Cost-reimbursable contract Explanation: Cost-reimbursable contracts involve payments to the
+seller for actual costs incurred for completing the work plus a fee representing seller profit. These
+contracts are often used when the project scope is not well defined or is subject to frequent change.
+1/1 point
+1/1 point
+157. You need to create a record of product requirements and relevant information to manage those
+requirements, including category, priority, and acceptance criteria. Which artifact would you develop to
+address this need?
+1/1 point
+OA. Activity list
+OB. Bid documents

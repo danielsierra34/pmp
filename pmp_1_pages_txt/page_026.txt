@@ -1,0 +1,58 @@
+C. Incremental approach
+OD. Hybrid approach
+Correct
+An "Adaptive approach" is advantageous when there is funding uncertainty, as it allows for releasing
+a minimum viable product with less investment and making further investments based on market
+response.
+117.A project manager is working in an organisation with a flat structure and self-organising project teams. Which
+development approach is likely to align well with this organisational structure?
+OA. Predictive approach
+OB. Adaptive approach
+C. Incremental approach
+OD. Hybrid approach
+Correct
+An "Adaptive approach" aligns well with an organization that has a flat structure and self-organizing
+project teams, as it emphasizes collaboration and self-management.
+1/1 point
+118. A project manager is working in an organization that emphasizes managing and directing work, with a strong
+focus on planning and progress measurement. Which development approach is likely to be more compatible
+with this organizational culture?
+1/1 point
+O
+A. Predictive approach
+OB. Adaptive approach
+OC. Incremental approach
+OD. Hybrid approach
+Correct
+A "Predictive approach" is more compatible with an organization that emphasizes managing and
+directing work, planning, and progress measurement.
+119. A project manager is leading an initiative to transition an organization from using predictive development
+approaches to adaptive approaches. What is a key consideration for successfully implementing this
+transition?
+O A. Implementing agile methods only at the project team level.
+OB. Shifting the mindset starting at the executive level.
+C. Restricting adaptive methods to certain project phases.
+OD. Utilising a hybrid approach during the transition.
+Correct
+A key consideration for successfully transitioning to adaptive approaches is "Shifting the mindset
+starting at the executive level throughout the organization," as it requires alignment of organizational
+policies, ways of working, reporting structure, and attitude.
+120. A project manager is overseeing a project with a small project team of 5 members working in the same
+physical location. Which development approach is likely to work best for this scenario?
+OA. Predictive approach
+B. Adaptive approach
+C. Incremental approach
+OD. Hybrid approach
+Correct
+An "Adaptive approach" is likely work best for a small project team working in the same physical
+location, as it allows for close collaboration and responsiveness.
+121. A project manager is working on a project where the delivery cadence and development approach influence
+the type and number of project phases. Which part of the project life cycle focuses on determining if the
+business case is valid and if the organization has the capability to deliver the intended outcome?
+A. Feasibility phase
+OB. Design phase
+OC. Build phase
+OD Test nhace
+1/1 point
+1/1 point
+1/1 point
