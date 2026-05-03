@@ -21,9 +21,16 @@ export default function App() {
   const [score, setScore] = useState({ ok: 0, bad: 0 });
 
   useEffect(() => {
-    fetch("./questions_with_marks_es.json")
+    fetch("./questions_with_marks.json")
       .then((r) => r.json())
-      .then((data) => setItems(data))
+      .then((data) => {
+        const shuffled = [...data];
+        for (let i = shuffled.length - 1; i > 0; i -= 1) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        setItems(shuffled);
+      })
       .catch(() => setItems([]));
   }, []);
 
@@ -69,10 +76,10 @@ export default function App() {
       </header>
 
       <section className="card">
-        <h1>{current.question_es || current.question}</h1>
+        <h1>{current.question}</h1>
         <div className="answers">
           {LETTERS.map((letter) => {
-            const text = current.options_es?.[letter] || current.options?.[letter] || "";
+            const text = current.options?.[letter] || "";
             const isPicked = picked === letter;
             const isCorrect = picked && correct === letter;
             const isWrongPicked = picked && isPicked && correct !== letter;
@@ -109,4 +116,3 @@ export default function App() {
     </main>
   );
 }
-
