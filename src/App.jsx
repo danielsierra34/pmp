@@ -3,6 +3,9 @@ import { useEffect, useMemo, useState } from "react";
 const LETTERS = ["A", "B", "C", "D"];
 
 function getCorrectLetter(item) {
+  const direct = item.correct_answer;
+  if (typeof direct === "string" && LETTERS.includes(direct)) return direct;
+
   const orange = item.expected_orange;
   if (typeof orange === "string" && LETTERS.includes(orange)) return orange;
   if (Array.isArray(orange) && LETTERS.includes(orange[0])) return orange[0];
@@ -100,7 +103,9 @@ export default function App() {
 
         {picked && (
           <div className="feedback">
-            {picked === correct ? (
+            {!correct ? (
+              <p className="badText">No hay respuesta correcta definida para esta pregunta.</p>
+            ) : picked === correct ? (
               <p className="good">Correcta</p>
             ) : (
               <p className="badText">Incorrecta. La correcta es: <strong>{correct}</strong></p>

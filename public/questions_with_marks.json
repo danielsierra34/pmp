@@ -10,9 +10,12 @@
       "D": "Creating a new product that meets the needs of customers or end users."
     },
     "consistency_score": 1,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -26,9 +29,12 @@
       "D": "Developing policies for legislative compliance."
     },
     "consistency_score": 2,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -42,9 +48,12 @@
       "D": "Prioritizing financial gains for stakeholders as the primary objective."
     },
     "consistency_score": 3,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -58,9 +67,12 @@
       "D": "Providing oversight and coordination to achieve project objectives."
     },
     "consistency_score": 4,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -74,9 +86,12 @@
       "D": "Presenting clear direction and feedback from customers and end users."
     },
     "consistency_score": 5,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -90,9 +105,12 @@
       "D": "Performing specialized work to produce project outcomes."
     },
     "consistency_score": 6,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -106,9 +124,12 @@
       "D": "Performing specialized work to produce project outcomes."
     },
     "consistency_score": 7,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -122,9 +143,12 @@
       "D": "Applying expertise by seeking advice and contributing to learning."
     },
     "consistency_score": 8,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -138,9 +162,12 @@
       "D": "Providing business direction and insight to maximize value."
     },
     "consistency_score": 9,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -154,9 +181,12 @@
       "D": "Presenting objectives and feedback from customers and end users."
     },
     "consistency_score": 10,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -170,9 +200,12 @@
       "D": "Resource availability and collaboration agreements"
     },
     "consistency_score": 11,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -186,9 +219,12 @@
       "D": "To ensure compliance with organizational policies."
     },
     "consistency_score": 12,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -202,9 +238,12 @@
       "D": "They may provide a framework for organizational decision-making."
     },
     "consistency_score": 13,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -218,9 +257,12 @@
       "D": "Currency exchange rates"
     },
     "consistency_score": 14,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -234,9 +276,12 @@
       "D": "Decline/Retirement"
     },
     "consistency_score": 15,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -250,9 +295,12 @@
       "D": "Project management within a program"
     },
     "consistency_score": 16,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -266,9 +314,12 @@
       "D": "Honesty"
     },
     "consistency_score": 17,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -282,9 +333,12 @@
       "D": "Contradicting principles"
     },
     "consistency_score": 18,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -298,9 +352,12 @@
       "D": "Advancing the state of practice in professional industries."
     },
     "consistency_score": 19,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -314,9 +371,12 @@
       "D": "Compliance"
     },
     "consistency_score": 20,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -330,9 +390,12 @@
       "D": "Fairness"
     },
     "consistency_score": 21,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -346,9 +409,12 @@
       "D": "Collaboration"
     },
     "consistency_score": 22,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -362,9 +428,12 @@
       "D": "Individual learning and development"
     },
     "consistency_score": 23,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -378,9 +447,12 @@
       "D": "Clarity on roles and responsibilities"
     },
     "consistency_score": 24,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -394,9 +466,12 @@
       "D": "Collaboration"
     },
     "consistency_score": 25,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -410,9 +485,12 @@
       "D": "Replace short-term team members with long-term members for consistency."
     },
     "consistency_score": 26,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -426,9 +504,12 @@
       "D": "To understand stakeholder interests, concerns, and rights, leading to a successful project outcome."
     },
     "consistency_score": 27,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -442,9 +523,12 @@
       "D": "Provide limited information to the community to prevent overinvolvement."
     },
     "consistency_score": 28,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -458,9 +542,12 @@
       "D": "Rely on written communication only to ensure clarity of information"
     },
     "consistency_score": 29,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -474,9 +561,12 @@
       "D": "Terminate the project since it is no longer aligned with the original business objectives."
     },
     "consistency_score": 30,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -490,9 +580,12 @@
       "D": "Business need, project justification, and business strategy"
     },
     "consistency_score": 31,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -506,9 +599,12 @@
       "D": "Inform the client that the project's scope is fixed and cannot be modified."
     },
     "consistency_score": 32,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -522,9 +618,12 @@
       "D": "Provide detailed documentation of the project's activities and tasks to showcase value."
     },
     "consistency_score": 33,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -538,9 +637,12 @@
       "D": "Assign a dedicated project manager to oversee each subsystem independently."
     },
     "consistency_score": 34,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -554,9 +656,12 @@
       "D": "Delay the development of the new application until the existing system is no longer in use."
     },
     "consistency_score": 35,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -570,9 +675,12 @@
       "D": "Avoiding the use of integrated methods and artefacts to prevent confusion among team members"
     },
     "consistency_score": 36,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -586,9 +694,12 @@
       "D": "Communicating changes only to the project team without involving external stakeholders"
     },
     "consistency_score": 37,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -602,9 +713,12 @@
       "D": "Assign the responsibility of addressing the alignment issues to a separate team without involving the project manager."
     },
     "consistency_score": 38,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -618,9 +732,12 @@
       "D": "Assign tasks and responsibilities based on team members' technical expertise only."
     },
     "consistency_score": 39,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -634,9 +751,12 @@
       "D": "Limited communication to minimize confusion and avoid disruptions."
     },
     "consistency_score": 40,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -650,9 +770,12 @@
       "D": "Directive leadership to provide clear guidance and instructions."
     },
     "consistency_score": 41,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -666,9 +789,12 @@
       "D": "Avoiding the conflict and leaving it unresolved."
     },
     "consistency_score": 42,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -682,9 +808,12 @@
       "D": "Relying solely on the project's formal authority to manage team interactions."
     },
     "consistency_score": 43,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -698,9 +827,12 @@
       "D": "Assigning blame one team member to alleviate tension."
     },
     "consistency_score": 44,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -714,9 +846,12 @@
       "D": "Micromanaging team members to maintain control over project activities."
     },
     "consistency_score": 45,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -730,9 +865,12 @@
       "D": "Assigning tasks and responsibilities without involving team members in the decision-making process."
     },
     "consistency_score": 46,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -746,9 +884,12 @@
       "D": "Maintaining a hierarchical approach to decision-making within the team."
     },
     "consistency_score": 47,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -762,9 +903,12 @@
       "D": "Implementing a highly detailed project plan to ensure every aspect is accounted for"
     },
     "consistency_score": 48,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -778,9 +922,12 @@
       "D": "Reduced need for lessons learned and improvements."
     },
     "consistency_score": 49,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -794,9 +941,12 @@
       "D": "Directive communication style to maintain project focus."
     },
     "consistency_score": 50,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -810,9 +960,12 @@
       "D": "Simplified project management processes."
     },
     "consistency_score": 51,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -826,9 +979,12 @@
       "D": "Prioritizing cost savings over project outcomes."
     },
     "consistency_score": 52,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -842,9 +998,12 @@
       "D": "Sustainability"
     },
     "consistency_score": 53,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -858,9 +1017,12 @@
       "D": "To increase supply chain integration"
     },
     "consistency_score": 54,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -874,9 +1036,12 @@
       "D": "Resilience"
     },
     "consistency_score": 55,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -890,9 +1055,12 @@
       "D": "Increased uncertainty in project outcomes"
     },
     "consistency_score": 56,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -906,9 +1074,12 @@
       "D": "Uniformity"
     },
     "consistency_score": 57,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -922,9 +1093,12 @@
       "D": "Ensuring project deliverables meet stakeholder expectations"
     },
     "consistency_score": 58,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -938,9 +1112,12 @@
       "D": "Technological innovation"
     },
     "consistency_score": 59,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -954,9 +1131,12 @@
       "D": "Dynamic interdependencies"
     },
     "consistency_score": 60,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -970,9 +1150,12 @@
       "D": "Human behavior"
     },
     "consistency_score": 61,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -986,9 +1169,12 @@
       "D": "Technological innovation"
     },
     "consistency_score": 62,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1002,9 +1188,12 @@
       "D": "Uncertainty and ambiguity"
     },
     "consistency_score": 63,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1018,9 +1207,12 @@
       "D": "Delegate the responsibility of addressing complexity to specialized team members."
     },
     "consistency_score": 64,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1034,9 +1226,12 @@
       "D": "Delegating responsibility for risk responses to external consultants."
     },
     "consistency_score": 65,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1050,9 +1245,12 @@
       "D": "Ensuring the risk response is realistic within the project context and agreed to by relevant stakeholders."
     },
     "consistency_score": 66,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1066,9 +1264,12 @@
       "D": "Delegating responsibility for the risk response to the project manager."
     },
     "consistency_score": 67,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1082,9 +1283,12 @@
       "D": "Developing a risk response that is realistic within the project context and agreed to by relevant stakeholders."
     },
     "consistency_score": 68,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1098,9 +1302,12 @@
       "D": "Selecting a risk response that is independent of the project's budget constraints"
     },
     "consistency_score": 69,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1114,9 +1321,12 @@
       "D": "Limiting exploration of alternative solutions to the original deliverables."
     },
     "consistency_score": 70,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1130,9 +1340,12 @@
       "D": "Relying solely on management support to address the weather-related challenges"
     },
     "consistency_score": 71,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1146,9 +1359,12 @@
       "D": "Wait until proiect closure to accace whether the new technolomu should be incorporated"
     },
     "consistency_score": 72,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1162,9 +1378,12 @@
       "D": "Deferring decision making to the project manager for all challenges."
     },
     "consistency_score": 73,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1178,9 +1397,12 @@
       "D": "Limit communication about the new system to the early stages of the project."
     },
     "consistency_score": 74,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1194,9 +1416,12 @@
       "D": "Limit the scope of changes to reduce the overall impact on stakeholders."
     },
     "consistency_score": 75,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1210,9 +1435,12 @@
       "D": "Focus solely on top-level management's approval of the changes."
     },
     "consistency_score": 76,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1226,9 +1454,12 @@
       "D": "Reassign the task to a different team member with a similar perspective."
     },
     "consistency_score": 77,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1242,9 +1473,12 @@
       "D": "Time management"
     },
     "consistency_score": 78,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1258,9 +1492,12 @@
       "D": "Establishing a high-performing team"
     },
     "consistency_score": 79,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1274,9 +1511,12 @@
       "D": "To delegate tasks and responsibilities to various stakeholders."
     },
     "consistency_score": 80,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1290,9 +1530,12 @@
       "D": "Stakeholders provide positive feedback on project outcomes."
     },
     "consistency_score": 81,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1306,9 +1549,12 @@
       "D": "Assign all tasks to team members based on their individual expertise."
     },
     "consistency_score": 82,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1322,9 +1568,12 @@
       "D": "Stakeholder engagement"
     },
     "consistency_score": 83,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1338,9 +1587,12 @@
       "D": "Growth and improvement"
     },
     "consistency_score": 84,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1354,9 +1606,12 @@
       "D": "Recognition and celebration"
     },
     "consistency_score": 85,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1370,9 +1625,12 @@
       "D": "Trust and recognition"
     },
     "consistency_score": 86,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1386,9 +1644,12 @@
       "D": "Facilitator"
     },
     "consistency_score": 87,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1402,9 +1663,12 @@
       "D": "Understanding stakeholder perspectives"
     },
     "consistency_score": 88,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1418,9 +1682,12 @@
       "D": "Assessing stakeholder satisfaction"
     },
     "consistency_score": 89,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1434,9 +1701,12 @@
       "D": "Measurement"
     },
     "consistency_score": 90,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1450,9 +1720,12 @@
       "D": "Conflict resolution and issue management"
     },
     "consistency_score": 91,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1466,9 +1739,12 @@
       "D": "Facilitator"
     },
     "consistency_score": 92,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1482,9 +1758,12 @@
       "D": "Autocratic leadership"
     },
     "consistency_score": 93,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1498,9 +1777,12 @@
       "D": "Motivation and recognition"
     },
     "consistency_score": 94,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1514,9 +1796,12 @@
       "D": "Critical thinking"
     },
     "consistency_score": 95,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1530,9 +1815,12 @@
       "D": "Achievement motivation"
     },
     "consistency_score": 96,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1546,9 +1834,12 @@
       "D": "Critical thinking"
     },
     "consistency_score": 97,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1562,9 +1853,12 @@
       "D": "Distributed project teams"
     },
     "consistency_score": 98,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1578,9 +1872,12 @@
       "D": "Stakeholders and Measurement"
     },
     "consistency_score": 99,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1594,9 +1891,12 @@
       "D": "Forcing"
     },
     "consistency_score": 100,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1610,9 +1910,12 @@
       "D": "Hierarchical decision making"
     },
     "consistency_score": 101,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1626,9 +1929,12 @@
       "D": "Eliminating face-to-face interactions"
     },
     "consistency_score": 102,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1642,9 +1948,12 @@
       "D": "Organizational governance structures"
     },
     "consistency_score": 103,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1658,9 +1967,12 @@
       "D": "Incremental deliveries"
     },
     "consistency_score": 104,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1674,9 +1986,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 105,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1690,9 +2005,12 @@
       "D": "Iterative approach"
     },
     "consistency_score": 106,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1706,9 +2024,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 107,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1722,9 +2043,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 108,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1738,9 +2062,12 @@
       "D": "Incremental approach"
     },
     "consistency_score": 109,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1754,9 +2081,12 @@
       "D": "Incremental approach"
     },
     "consistency_score": 110,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1770,9 +2100,12 @@
       "D": "Incremental approach"
     },
     "consistency_score": 111,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1786,9 +2119,12 @@
       "D": "Incremental deliveries"
     },
     "consistency_score": 112,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1802,9 +2138,12 @@
       "D": "Incremental approach"
     },
     "consistency_score": 113,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1818,9 +2157,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 114,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1834,9 +2176,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 115,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1850,9 +2195,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 116,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1866,9 +2214,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 117,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1882,9 +2233,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 118,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1898,9 +2252,12 @@
       "D": "Utilising a hybrid approach during the transition."
     },
     "consistency_score": 119,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1914,9 +2271,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 120,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1930,9 +2290,12 @@
       "D": "Test nhace"
     },
     "consistency_score": 121,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1946,9 +2309,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 122,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1962,9 +2328,12 @@
       "D": "Adaptive life cycle"
     },
     "consistency_score": 123,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1978,9 +2347,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 124,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -1994,9 +2366,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 125,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2010,9 +2385,12 @@
       "D": "Employing a work breakdown structure (WBS)"
     },
     "consistency_score": 126,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2026,9 +2404,12 @@
       "D": "The range of estimates is not impacted by project evolution."
     },
     "consistency_score": 127,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2042,9 +2423,12 @@
       "D": "Estimate A has lower precision and lower accuracy than Estimate B."
     },
     "consistency_score": 128,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2058,9 +2442,12 @@
       "D": "Schedule crashing"
     },
     "consistency_score": 129,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2074,9 +2461,12 @@
       "D": "Critical path method"
     },
     "consistency_score": 130,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2090,9 +2480,12 @@
       "D": "Uncertain parameters"
     },
     "consistency_score": 131,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2106,9 +2499,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 132,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2122,9 +2518,12 @@
       "D": "Project scope encompasses the work performed and the specified features and functions, while product scope focuses on the project's stakeholders."
     },
     "consistency_score": 133,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2138,9 +2537,12 @@
       "D": "Stakeholder engagement"
     },
     "consistency_score": 134,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2154,9 +2556,12 @@
       "D": "Project Work Performance Domain"
     },
     "consistency_score": 135,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2170,9 +2575,12 @@
       "D": "To allocate management reserves for potential risks"
     },
     "consistency_score": 136,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2186,9 +2594,12 @@
       "D": "It eliminates the need for communication with stakeholders."
     },
     "consistency_score": 137,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2202,9 +2613,12 @@
       "D": "Procurement reserves"
     },
     "consistency_score": 138,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2218,9 +2632,12 @@
       "D": "External dependency"
     },
     "consistency_score": 139,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2234,9 +2651,12 @@
       "D": "The estimate will have high accuracy due to the early stage of the project."
     },
     "consistency_score": 140,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2250,9 +2670,12 @@
       "D": "Hybrid approach"
     },
     "consistency_score": 141,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2266,9 +2689,12 @@
       "D": "Internal dependency"
     },
     "consistency_score": 142,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2282,9 +2708,12 @@
       "D": "The project's physical resources"
     },
     "consistency_score": 143,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2298,9 +2727,12 @@
       "D": "Utilizing lean production methods"
     },
     "consistency_score": 144,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2314,9 +2746,12 @@
       "D": "Balancing and making trade-offs among constraints"
     },
     "consistency_score": 145,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2330,9 +2765,12 @@
       "D": "Delivering value and protecting the project team's production capability"
     },
     "consistency_score": 146,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2346,9 +2784,12 @@
       "D": "Allocate more resources to project execution activities"
     },
     "consistency_score": 147,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2362,9 +2803,12 @@
       "D": "Eliminating the need for a logistics plan"
     },
     "consistency_score": 148,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2378,9 +2822,12 @@
       "D": "Request for vendor qualifications"
     },
     "consistency_score": 149,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2394,9 +2841,12 @@
       "D": "Price, experience, references, and timely delivery"
     },
     "consistency_score": 150,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2410,9 +2860,12 @@
       "D": "Minimizing scope changes"
     },
     "consistency_score": 151,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2426,9 +2879,12 @@
       "D": "Theoretical knowledge"
     },
     "consistency_score": 152,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2442,9 +2898,12 @@
       "D": "By focusing solely on balancing constraints"
     },
     "consistency_score": 153,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2458,9 +2917,12 @@
       "D": "Efficient and effective project performance"
     },
     "consistency_score": 154,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2474,9 +2936,12 @@
       "D": "Project processes appropriate for the project and environment"
     },
     "consistency_score": 155,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2490,9 +2955,12 @@
       "D": "Efficient management of physical resources"
     },
     "consistency_score": 156,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2506,9 +2974,12 @@
       "D": "Efficient and effective project performance"
     },
     "consistency_score": 157,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2522,9 +2993,12 @@
       "D": "Project processes appropriate for the project and environment"
     },
     "consistency_score": 158,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2538,9 +3012,12 @@
       "D": "Appropriate communication and engagement with stakeholders"
     },
     "consistency_score": 159,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2554,9 +3031,12 @@
       "D": "Effective management of procurements"
     },
     "consistency_score": 160,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2570,9 +3050,12 @@
       "D": "The project team has a clear understanding of requirements"
     },
     "consistency_score": 161,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2586,9 +3069,12 @@
       "D": "Projects focus on meeting scope and quality expectations"
     },
     "consistency_score": 162,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2602,9 +3088,12 @@
       "D": "Project charter hierarchy"
     },
     "consistency_score": 163,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2618,9 +3107,12 @@
       "D": "Eliciting requirements through stakeholder agreement"
     },
     "consistency_score": 164,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2634,9 +3126,12 @@
       "D": "Verification processes"
     },
     "consistency_score": 165,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2650,9 +3145,12 @@
       "D": "Predictive indicators"
     },
     "consistency_score": 166,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2666,9 +3164,12 @@
       "D": "Timely"
     },
     "consistency_score": 167,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2682,9 +3183,12 @@
       "D": "Stakeholders metrics."
     },
     "consistency_score": 168,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2698,9 +3202,12 @@
       "D": "Business value metrics"
     },
     "consistency_score": 169,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2714,9 +3221,12 @@
       "D": "Performance metrics"
     },
     "consistency_score": 170,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2730,9 +3240,12 @@
       "D": "Specific"
     },
     "consistency_score": 171,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2746,9 +3259,12 @@
       "D": "Resources metrics"
     },
     "consistency_score": 172,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2762,9 +3278,12 @@
       "D": "Use of measures"
     },
     "consistency_score": 173,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2778,9 +3297,12 @@
       "D": "Business value metrics"
     },
     "consistency_score": 174,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2794,9 +3316,12 @@
       "D": "Queue size"
     },
     "consistency_score": 175,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2810,9 +3335,12 @@
       "D": "Cycle time"
     },
     "consistency_score": 176,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2826,9 +3354,12 @@
       "D": "Cost variance (CV)"
     },
     "consistency_score": 177,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2842,9 +3373,12 @@
       "D": "Planned benefits delivery compared to actual benefits delivery"
     },
     "consistency_score": 178,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2858,9 +3392,12 @@
       "D": "Variance at completion (VAC)"
     },
     "consistency_score": 179,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2874,9 +3411,12 @@
       "D": "Throughput analysis"
     },
     "consistency_score": 180,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2890,9 +3430,12 @@
       "D": "Organizing a grand opening event to celebrate the completion of the building and invite key stakeholders."
     },
     "consistency_score": 181,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2906,9 +3449,12 @@
       "D": "Implement a centralized communication platform where all project-related information is shared, accessible, and updated by all project team members."
     },
     "consistency_score": null,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2922,9 +3468,12 @@
       "D": "Assign individual project team members to manage specific governance aspects, such as risk management or change control."
     },
     "consistency_score": 182,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2938,9 +3487,12 @@
       "D": "Appoint a separate facilitator to manage coordination efforts, enabling you to focus solely on project deliverable."
     },
     "consistency_score": 184,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2954,9 +3506,12 @@
       "D": "Rely on academic research and industry standards to assess the impact of external influences on the project"
     },
     "consistency_score": 185,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2970,9 +3525,12 @@
       "D": "Seek approval from senior management to extend the project timeline to accommodate the new product requirements."
     },
     "consistency_score": 186,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -2986,9 +3544,12 @@
       "D": "Engage with environmental experts and stakeholders to review the project's environmental impact and develop a revised plan that incorporates sustainable practices. Address the conflicts of interest through transparent communication and conflict resolution strategies."
     },
     "consistency_score": 187,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3002,9 +3563,12 @@
       "D": "Conduct a thorough review of the project's organizational structure and make necessary adjustments to create cross-functional teams, breaking down departmental silos and encouraging collaboration."
     },
     "consistency_score": 188,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3018,9 +3582,12 @@
       "D": "Ignore the concerns of the local residents' association as their influence on the project may not be significant"
     },
     "consistency_score": 189,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3034,9 +3601,12 @@
       "D": "Assign blame to the departments causing delays and conflicts to hold them accountable for their actions."
     },
     "consistency_score": 190,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3050,9 +3620,12 @@
       "D": "Escalate the conflict to senior management and let them handle the decision-making process."
     },
     "consistency_score": 191,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3066,9 +3639,12 @@
       "D": "Shift the blame to the development team, stating that they are responsible for the defects, and you were not aware of the issues."
     },
     "consistency_score": 192,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3082,9 +3658,12 @@
       "D": "Rely solely on past project experiences to handle the current complexity."
     },
     "consistency_score": 193,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3098,9 +3677,12 @@
       "D": "Wait for the innovation to become a standard industry practice before considering its adoption."
     },
     "consistency_score": 194,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3114,9 +3696,12 @@
       "D": "Rely on project change control to enforce the changes required by the project outcomes. tion to become a standard industry practice before considering its adoption."
     },
     "consistency_score": 195,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3130,9 +3715,12 @@
       "D": "Identify stakeholders but avoid engagement to prevent potential conflicts and delays."
     },
     "consistency_score": 196,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3146,9 +3734,12 @@
       "D": "Implement a micromanagement approach to ensure tasks are completed efficiently."
     },
     "consistency_score": 197,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3162,9 +3753,12 @@
       "D": "Assign additional responsibilities to other team members to compensate for the skill gaps."
     },
     "consistency_score": 198,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3178,9 +3772,12 @@
       "D": "Assign specific roles and responsibilities to each team member."
     },
     "consistency_score": 199,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3194,9 +3791,12 @@
       "D": "Promote solely analytical thinking without considering emotional intelligence."
     },
     "consistency_score": 200,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3210,9 +3810,12 @@
       "D": "Utilize a single motivator, such as the project's success, to inspire all team members equally."
     },
     "consistency_score": 201,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3226,9 +3829,12 @@
       "D": "Address conflicts by directing team members to follow the decision made by the most senior stakeholders."
     },
     "consistency_score": 202,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3242,9 +3848,12 @@
       "D": "A hybrid approach with both single and periodic deliveries."
     },
     "consistency_score": 203,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3258,9 +3867,12 @@
       "D": "Iterative approach."
     },
     "consistency_score": 204,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3274,9 +3886,12 @@
       "D": "The size and budget of the project to identify the most suitable approach."
     },
     "consistency_score": 205,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3290,9 +3905,12 @@
       "D": "Incremental approach."
     },
     "consistency_score": 206,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3306,9 +3924,12 @@
       "D": "Incremental approach."
     },
     "consistency_score": 207,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3322,9 +3943,12 @@
       "D": "Adaptive life cycle with an incremental development approach."
     },
     "consistency_score": 208,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3338,9 +3962,12 @@
       "D": "Multiple deliveries, adaptive development approach, and adaptive life cycle."
     },
     "consistency_score": 209,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3354,9 +3981,12 @@
       "D": "Close phase"
     },
     "consistency_score": 210,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3370,9 +4000,12 @@
       "D": "Incremental approach."
     },
     "consistency_score": 211,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3386,9 +4019,12 @@
       "D": "Time spent planning is appropriate for the situation."
     },
     "consistency_score": 212,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3402,9 +4038,12 @@
       "D": "Predictive planning approach."
     },
     "consistency_score": 213,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3418,9 +4057,12 @@
       "D": "Adaptive planning."
     },
     "consistency_score": 214,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3434,9 +4076,12 @@
       "D": "A range that remains constant throughout the project."
     },
     "consistency_score": 215,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3450,9 +4095,12 @@
       "D": "Flow-based estimating"
     },
     "consistency_score": 216,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3466,9 +4114,12 @@
       "D": "Improved collaboration in the same room."
     },
     "consistency_score": 217,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3482,9 +4133,12 @@
       "D": "The frequency of information needed."
     },
     "consistency_score": 218,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3498,9 +4152,12 @@
       "D": "Deterministic estimating."
     },
     "consistency_score": 219,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3514,9 +4171,12 @@
       "D": "Setting aside contingency reserve funds to respond to risk events."
     },
     "consistency_score": 220,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3530,9 +4190,12 @@
       "D": "Process tailoring."
     },
     "consistency_score": 221,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3546,9 +4209,12 @@
       "D": "Prioritizing schedule over quality requirements."
     },
     "consistency_score": 222,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3562,9 +4228,12 @@
       "D": "Implementing critical projects with more process."
     },
     "consistency_score": 223,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3578,9 +4247,12 @@
       "D": "Update the project's risk management plan."
     },
     "consistency_score": 224,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3596,6 +4268,7 @@
     "consistency_score": 225,
     "selected_green": null,
     "expected_orange": null,
+    "correct_answer": null,
     "all_green_marks": [],
     "all_orange_marks": []
   },
@@ -3610,9 +4283,12 @@
       "D": "Further stakeholder engagement is necessary to meet information requirements."
     },
     "consistency_score": 226,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3626,9 +4302,12 @@
       "D": "SOW is used for complex or complicated scope where the buyer is looking for the vendor to provide a"
     },
     "consistency_score": 227,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3642,9 +4321,12 @@
       "D": "Industry-specific knowledge."
     },
     "consistency_score": 228,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3658,9 +4340,12 @@
       "D": "The time and location for physical resource deliveries."
     },
     "consistency_score": 229,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3674,9 +4359,12 @@
       "D": "External failure costs"
     },
     "consistency_score": 230,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3690,9 +4378,12 @@
       "D": "Cost of Quality (COQ)"
     },
     "consistency_score": 231,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3706,9 +4397,12 @@
       "D": "Quality requirements"
     },
     "consistency_score": 232,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3722,9 +4416,12 @@
       "D": "External Failure"
     },
     "consistency_score": 233,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3738,9 +4435,12 @@
       "D": "Implementing quality controls only during the final stages of the project."
     },
     "consistency_score": 234,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3754,9 +4454,12 @@
       "D": "Hiring more quality analysts during the later stages of the project."
     },
     "consistency_score": 235,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3770,9 +4473,12 @@
       "D": "Uncertainty in delivering the project on time and within budget."
     },
     "consistency_score": 236,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3786,9 +4492,12 @@
       "D": "Measurement Performance Domain"
     },
     "consistency_score": 237,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3802,9 +4511,12 @@
       "D": "Quality management plan"
     },
     "consistency_score": 238,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3818,9 +4530,12 @@
       "D": "Outcome: The project team has a clear understanding of requirements"
     },
     "consistency_score": 239,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3834,9 +4549,12 @@
       "D": "Meaningful indicators"
     },
     "consistency_score": 240,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3850,9 +4568,12 @@
       "D": "Meaningful indicators"
     },
     "consistency_score": 241,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3866,9 +4587,12 @@
       "D": "Specific"
     },
     "consistency_score": 242,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3882,9 +4606,12 @@
       "D": "Resources"
     },
     "consistency_score": 243,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3898,9 +4625,12 @@
       "D": "Work in progress"
     },
     "consistency_score": 244,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3914,9 +4644,12 @@
       "D": "Queue size"
     },
     "consistency_score": 245,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3930,9 +4663,12 @@
       "D": "Feature completion rates"
     },
     "consistency_score": 246,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3946,9 +4682,12 @@
       "D": "Cost-benefit ratio"
     },
     "consistency_score": 247,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3962,9 +4701,12 @@
       "D": "Price variance"
     },
     "consistency_score": 248,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3978,9 +4720,12 @@
       "D": "Net present value (NPV)"
     },
     "consistency_score": 249,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -3994,9 +4739,12 @@
       "D": "Batch size"
     },
     "consistency_score": 250,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4010,9 +4758,12 @@
       "D": "Turnover"
     },
     "consistency_score": 251,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4026,9 +4777,12 @@
       "D": "Turnover rate analysis"
     },
     "consistency_score": 252,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4042,9 +4796,12 @@
       "D": "Estimate to completion"
     },
     "consistency_score": 253,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4058,9 +4815,12 @@
       "D": "Morale survey"
     },
     "consistency_score": 254,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4074,9 +4834,12 @@
       "D": "Morale surveys; in the project documentation repository"
     },
     "consistency_score": 255,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4090,9 +4853,12 @@
       "D": "To present up-to-date information for the Planning Performance Domain."
     },
     "consistency_score": 256,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4106,9 +4872,12 @@
       "D": "By \"swarming\" around current work when a column approaches the work in progress limit."
     },
     "consistency_score": 257,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4122,9 +4891,12 @@
       "D": "Task board"
     },
     "consistency_score": 258,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4138,9 +4910,12 @@
       "D": "The act of measuring output to encourage a large volume of deliverables."
     },
     "consistency_score": 259,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4154,9 +4929,12 @@
       "D": "To outline agreed-upon actions when a threshold is crossed or forecasted."
     },
     "consistency_score": 260,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4170,9 +4948,12 @@
       "D": "Formally establishing common rules and definitions of terms"
     },
     "consistency_score": 261,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4186,9 +4967,12 @@
       "D": "Progressive elaboration"
     },
     "consistency_score": 262,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4202,9 +4986,12 @@
       "D": "Transfer"
     },
     "consistency_score": 263,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4218,9 +5005,12 @@
       "D": "Reframing the project objectives"
     },
     "consistency_score": 264,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4234,9 +5024,12 @@
       "D": "Escalations"
     },
     "consistency_score": 265,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4250,9 +5043,12 @@
       "D": "Exploit"
     },
     "consistency_score": 266,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4266,9 +5062,12 @@
       "D": "Management reserve"
     },
     "consistency_score": 267,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4282,9 +5081,12 @@
       "D": "Resource allocation"
     },
     "consistency_score": 268,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4298,9 +5100,12 @@
       "D": "Risk appetite"
     },
     "consistency_score": 269,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4314,9 +5119,12 @@
       "D": "Accept"
     },
     "consistency_score": 270,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4330,9 +5138,12 @@
       "D": "Perform a make or buy analysis on the different software options."
     },
     "consistency_score": 271,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4346,9 +5157,12 @@
       "D": "Reduce project risks"
     },
     "consistency_score": 272,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4362,9 +5176,12 @@
       "D": "Employing iterative approaches exclusively for the project."
     },
     "consistency_score": 273,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4378,9 +5195,12 @@
       "D": "Removing any modifications to project documents."
     },
     "consistency_score": 274,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4394,9 +5214,12 @@
       "D": "Using an iterative development approach for the project"
     },
     "consistency_score": 275,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4410,9 +5233,12 @@
       "D": "Risk Management Plan."
     },
     "consistency_score": 276,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4426,9 +5252,12 @@
       "D": "Ensuring cost-effectiveness and budget compliance."
     },
     "consistency_score": 277,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4442,9 +5271,12 @@
       "D": "Aligning with industry best practices and standards."
     },
     "consistency_score": 278,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4458,9 +5290,12 @@
       "D": "Project management tools and software."
     },
     "consistency_score": 279,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4474,9 +5309,12 @@
       "D": "Aligning the project approach with the industry standards."
     },
     "consistency_score": 280,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4490,9 +5328,12 @@
       "D": "Send detailed project reports with technical jargon and rely on translators to convey complex information accurately."
     },
     "consistency_score": 281,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4506,9 +5347,12 @@
       "D": "Assign a single designated spokesperson from the project team to communicate with all stakeholders, minimizing potential misunderstandings."
     },
     "consistency_score": 282,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4522,9 +5366,12 @@
       "D": "Assign specific tasks to team members based on their cultural backgrounds to leverage their unique perspectives, even if it means adjusting the project plan."
     },
     "consistency_score": 283,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4538,9 +5385,12 @@
       "D": "Focus on a purely adaptive approach where project requirements are continually adjusted as new insights emerge, resulting in a project life cycle that has an indefinite duration."
     },
     "consistency_score": 284,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4554,9 +5404,12 @@
       "D": "Create separate communication channels for internal teams and external suppliers, limiting information sharing to predefined deliverables and milestones, which will help maintain clarity and minimize confusion."
     },
     "consistency_score": 285,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4570,9 +5423,12 @@
       "D": "Streamline the project life cycle by skipping phases that involve compliance reviews, focusing solely on deliverable development to expedite project completion."
     },
     "consistency_score": 286,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4586,9 +5442,12 @@
       "D": "Limit communication and collaboration with external stakeholders, such as industry experts and regulatory bodies, to avoid unnecessary disruptions to the project timeline."
     },
     "consistency_score": 287,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4602,9 +5461,12 @@
       "D": "Maintain a siloed approach to knowledge management, with each department responsible for managing their own information independently."
     },
     "consistency_score": 288,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4618,9 +5480,12 @@
       "D": "Rely solely on the quality management plan from a previous project, assuming it will apply seamlessly to the current project."
     },
     "consistency_score": 289,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4634,9 +5499,12 @@
       "D": "Rely solely on historical risk data from previous projects to identify potential risks, without considering the project's unique innovation and strategic importance."
     },
     "consistency_score": 290,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4650,9 +5518,12 @@
       "D": "Rely solely on post-project evaluations to assess benefits realization, without implementing ongoing measurement and reporting mechanisms."
     },
     "consistency_score": 291,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4666,9 +5537,12 @@
       "D": "Set strict timelines and task assignments for all developers, regardless of their competence and commitment levels."
     },
     "consistency_score": 292,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4682,9 +5556,12 @@
       "D": "Actions: Set specific, attainable targets for improvement based on immediate needs. Work with team members to establish a timeframe and monitor progress toward those targets."
     },
     "consistency_score": 293,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4698,9 +5575,12 @@
       "D": "Establish strict communication schedules and limit interactions to predefined time slots to accommodate different time zones."
     },
     "consistency_score": 294,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4714,9 +5594,12 @@
       "D": "Rely on written documents and reports for all communication, as they can be distributed easily and allow team members to consume information at their own pace."
     },
     "consistency_score": 295,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4730,9 +5613,12 @@
       "D": "Leverage project management software and collaboration tools to share both simple and complex information, ensuring easy access and traceability."
     },
     "consistency_score": 296,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4746,9 +5632,12 @@
       "D": "Use technical jargon and industry-specific terminology to enhance the app's credibility and show that it caters to knowledgeable users."
     },
     "consistency_score": 297,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4762,9 +5651,12 @@
       "D": "Implement a formal recognition program for all team members, regardless of their individual motivations"
     },
     "consistency_score": 298,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4778,9 +5670,12 @@
       "D": "Assign tasks solely based on the hierarchy of the project team, disregarding individual preferences and strengths."
     },
     "consistency_score": 299,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4794,9 +5689,12 @@
       "D": "Avoid acknowledging individual achievements or providing opportunities for leadership, as this might lead to conflicts among stakeholders driven by different needs."
     },
     "consistency_score": 300,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4810,9 +5708,12 @@
       "D": "Rotate team members through different roles and responsibilities regularly to prevent monotony and encourage continuous learning, as suggested by the Theory X perspective."
     },
     "consistency_score": 301,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4826,9 +5727,12 @@
       "D": "Maintain the existing organizational culture and routines to avoid disrupting employees' daily work routines"
     },
     "consistency_score": 302,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4842,9 +5746,12 @@
       "D": "Offer rewards and incentives to team members who quickly adopt the new software system, encouraging them to move through the stages of transition."
     },
     "consistency_score": 303,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4858,9 +5765,12 @@
       "D": "Seek to break down the complex market challenges into smaller, manageable parts, allowing for a structured and incremental approach to problem-solving."
     },
     "consistency_score": 304,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4874,9 +5784,12 @@
       "D": "Define the project as \"chaotic\" due to the rapid changes in requirements, and attempt to stabilize the situation before applying any project management methods."
     },
     "consistency_score": 305,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4890,9 +5803,12 @@
       "D": "Use the Cynefin framework to define the project as \"simple,\" based on established best practices, and rely on the Stacey Matrix to identify the project as \"complicated\" due to changing industry dynamics."
     },
     "consistency_score": 306,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4906,9 +5822,12 @@
       "D": "Facilitate open discussions among team members to address conflicts, encourage understanding, and promote collaboration."
     },
     "consistency_score": 307,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4922,9 +5841,12 @@
       "D": "Delegate decision-making authority to team members without any guidance, allowing them to determine their own goals and methods."
     },
     "consistency_score": 308,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4938,9 +5860,12 @@
       "D": "Compromise by finding a middle ground between the conflicting parties, even if it means sacrificing some team objectives."
     },
     "consistency_score": 309,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4954,9 +5879,12 @@
       "D": "Escalate the conflict to senior management and seek their intervention to make the final decision for the team."
     },
     "consistency_score": 310,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4970,9 +5898,12 @@
       "D": "Engage stakeholders primarily based on their legitimacy, even if they have limited power and urgency."
     },
     "consistency_score": 311,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -4986,9 +5917,12 @@
       "D": "Implement the \"smoothing/accommodating\" style when the conflict involves technical expertise, allowing the expert to lead the resolution."
     },
     "consistency_score": 312,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5002,9 +5936,12 @@
       "D": "Choose a \"win-lose\" approach to assert your project's position and maintain control over the negotiation process."
     },
     "consistency_score": 313,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5018,9 +5955,12 @@
       "D": "Select a fixed planning approach that aligns with industry standards, irrespective of the specific project's needs."
     },
     "consistency_score": 314,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5034,9 +5974,12 @@
       "D": "Engage stakeholders with the highest legitimacy, even if they have limited power or urgency in the project."
     },
     "consistency_score": 315,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5050,9 +5993,12 @@
       "D": "Rely on the cost-benefit analysis to determine the costs and benefits of the project."
     },
     "consistency_score": 316,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5066,9 +6012,12 @@
       "D": "Prioritize nonconformance costs and overlook the impact of appraisal and failure costs on project outcomes."
     },
     "consistency_score": 317,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5082,9 +6031,12 @@
       "D": "Ignore the implications of uncertainty and rely solely on historical data for decision-making."
     },
     "consistency_score": 318,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5098,9 +6050,12 @@
       "D": "Avoid benchmarking to prevent being influenced by practices of comparable organizations."
     },
     "consistency_score": 319,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5114,9 +6069,12 @@
       "D": "Prioritize changes in the activity's output and ignore the underlying processes."
     },
     "consistency_score": 320,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5130,9 +6088,12 @@
       "D": "Use historical data from a different project to estimate costs without considering individual activity"
     },
     "consistency_score": 321,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5146,9 +6107,12 @@
       "D": "Estimate user story effort based on the total project budget."
     },
     "consistency_score": 322,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5162,9 +6126,12 @@
       "D": "Host a project review meeting to assess status, evaluate value delivered, and readiness for the next phase or transition."
     },
     "consistency_score": 323,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5178,9 +6145,12 @@
       "D": "Host a backlog refinement meeting to progressively elaborate and reprioritize the backlog for upcoming iterations."
     },
     "consistency_score": 324,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5194,9 +6164,12 @@
       "D": "Conduct a project closeout meeting to obtain final acceptance of the delivered scope."
     },
     "consistency_score": 325,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5210,9 +6183,12 @@
       "D": "Sensitivity analysis"
     },
     "consistency_score": 326,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5226,9 +6202,12 @@
       "D": "Project charter"
     },
     "consistency_score": 327,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5242,9 +6221,12 @@
       "D": "Roadmap"
     },
     "consistency_score": 328,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5258,9 +6240,12 @@
       "D": "Roadmap"
     },
     "consistency_score": 329,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5274,9 +6259,12 @@
       "D": "Roadmap"
     },
     "consistency_score": 330,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5290,9 +6278,12 @@
       "D": "Issue log"
     },
     "consistency_score": 331,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5306,9 +6297,12 @@
       "D": "Iteration plan"
     },
     "consistency_score": 332,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5322,9 +6316,12 @@
       "D": "Risk breakdown structure"
     },
     "consistency_score": 333,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5338,9 +6335,12 @@
       "D": "Scope baseline"
     },
     "consistency_score": 334,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5354,9 +6354,12 @@
       "D": "Scatter diagram"
     },
     "consistency_score": 335,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5370,9 +6373,12 @@
       "D": "Indefinite delivery indefinite quantity (IDIQ) contract"
     },
     "consistency_score": 336,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5386,9 +6392,12 @@
       "D": "Requirements documentation"
     },
     "consistency_score": 337,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5402,9 +6411,12 @@
       "D": "Work breakdown structure"
     },
     "consistency_score": 338,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5418,9 +6430,12 @@
       "D": "Project schedule"
     },
     "consistency_score": 339,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5434,9 +6449,12 @@
       "D": "S curve"
     },
     "consistency_score": 340,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5450,9 +6468,12 @@
       "D": "Resource management plan"
     },
     "consistency_score": 341,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5466,9 +6487,12 @@
       "D": "Stakeholder engagement assessment matrix \""
     },
     "consistency_score": 342,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5482,9 +6506,12 @@
       "D": "Stakeholder register"
     },
     "consistency_score": 343,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5498,9 +6525,12 @@
       "D": "Scope baseline"
     },
     "consistency_score": 344,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5514,9 +6544,12 @@
       "D": "Analogous Estimating"
     },
     "consistency_score": 345,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5530,9 +6563,12 @@
       "D": "Risk Review"
     },
     "consistency_score": 346,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5546,9 +6582,12 @@
       "D": "Planning Meeting"
     },
     "consistency_score": 347,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5562,9 +6601,12 @@
       "D": "Iteration Review"
     },
     "consistency_score": 348,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5578,9 +6620,12 @@
       "D": "Risk Review"
     },
     "consistency_score": 349,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5594,9 +6639,12 @@
       "D": "Boehm's Planning Model"
     },
     "consistency_score": 350,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5610,9 +6658,12 @@
       "D": "Monitoring and Controlling"
     },
     "consistency_score": 351,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5626,9 +6677,12 @@
       "D": "When a win-win outcome is desired"
     },
     "consistency_score": 352,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5642,9 +6696,12 @@
       "D": "Relative Estimating"
     },
     "consistency_score": 353,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5658,9 +6715,12 @@
       "D": "Closing"
     },
     "consistency_score": 354,
-    "selected_green": null,
+    "selected_green": "D",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "D",
+    "all_green_marks": [
+      "D"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5674,9 +6734,12 @@
       "D": "Avoiding"
     },
     "consistency_score": 355,
-    "selected_green": null,
+    "selected_green": "A",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "A",
+    "all_green_marks": [
+      "A"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5690,9 +6753,12 @@
       "D": "Avoiding"
     },
     "consistency_score": 356,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5706,9 +6772,12 @@
       "D": "Performing"
     },
     "consistency_score": 357,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5722,9 +6791,12 @@
       "D": "Goal Clarification"
     },
     "consistency_score": 358,
-    "selected_green": null,
+    "selected_green": "C",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "C",
+    "all_green_marks": [
+      "C"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5738,9 +6810,12 @@
       "D": "Performing"
     },
     "consistency_score": 359,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   },
   {
@@ -5754,9 +6829,12 @@
       "D": "Break the situation into smaller parts and categorize them."
     },
     "consistency_score": 360,
-    "selected_green": null,
+    "selected_green": "B",
     "expected_orange": null,
-    "all_green_marks": [],
+    "correct_answer": "B",
+    "all_green_marks": [
+      "B"
+    ],
     "all_orange_marks": []
   }
 ]
