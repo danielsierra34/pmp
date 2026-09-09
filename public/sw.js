@@ -1,4 +1,4 @@
-const CACHE_NAME = "pmp-swipe-v1";
+const CACHE_NAME = "pmp-swipe-v2";
 const APP_SHELL = ["./", "./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
