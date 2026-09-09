@@ -213,8 +213,14 @@ body { margin: 0; }
 
 @media (max-width: 520px) {
   .top { align-items: stretch; flex-direction: column; }
-  .dimension-stats { grid-template-columns: 1fr; width: 100%; }
-  .dimension-stat { grid-template-columns: auto 1fr auto auto; }
+  .dimension-stats { grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; }
+  .dimension-stat {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 0.15rem;
+    padding: 0.35rem 0.15rem;
+  }
+  .dimension-stat span { font-size: 0.68rem; }
   .nav { gap: 0.45rem; }
   .nav button { flex: 1; padding-inline: 0.55rem; }
   .dimension-chart { height: 320px; }
