@@ -13,7 +13,10 @@ from rapidocr_onnxruntime import RapidOCR
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
-PDF_FILES = ["pmp_1.pdf", "pmp_2.pdf"]
+PDF_FILES = [
+    "data/pmbok-7/source/pdfs/pmp_1.pdf",
+    "data/pmbok-7/source/pdfs/pmp_2.pdf",
+]
 CREDENTIALS_FILE = "oceanic-craft-446616-c3-9cb2a8b2d2a5.json"
 SHEET_ID = "1GiIGc4ZmQpJBu8_qNfrFdAJTkOYR3i7JcvgJcHhH2v4"
 
@@ -414,7 +417,9 @@ def main() -> None:
             }
         )
 
-    Path("extracted_questions.json").write_text(json.dumps(audit, ensure_ascii=False, indent=2), encoding="utf-8")
+    Path("data/pmbok-7/processed/extracted_questions.json").write_text(
+        json.dumps(audit, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     write_to_sheet(deduped)
     print("Sheet updated successfully.")

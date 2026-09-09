@@ -1,4 +1,4 @@
-import argparse
+﻿import argparse
 import asyncio
 import json
 import re
@@ -8,6 +8,12 @@ import edge_tts
 
 
 def get_correct_letter(item: dict) -> str | None:
+    direct = item.get("correct_answer")
+    if isinstance(direct, str) and direct in {"A", "B", "C", "D"}:
+        return direct
+    if isinstance(direct, list) and direct and direct[0] in {"A", "B", "C", "D"}:
+        return direct[0]
+
     orange = item.get("expected_orange")
     if isinstance(orange, str) and orange in {"A", "B", "C", "D"}:
         return orange
@@ -28,11 +34,12 @@ def clean_text(s: str) -> str:
     return s
 
 
-def to_study_script(items: list[dict], exam_filter: str | None) -> str:
+def to_study_script(items: list[dict], exam_filter: str | None, mode: str) -> str:
     lines: list[str] = []
     current_exam = None
+    spoken_idx = 0
 
-    for i, item in enumerate(items, start=1):
+    for item in items:
         exam = clean_text(item.get("exam", ""))
         if exam_filter and exam_filter != exam:
             continue
@@ -41,8 +48,8 @@ def to_study_script(items: list[dict], exam_filter: str | None) -> str:
             current_exam = exam
             lines.append(f"{exam}.")
 
-        q = clean_text(item.get("question_es") or item.get("question") or "")
-        options = item.get("options_es") or item.get("options") or {}
+        q = clean_text(item.get("question") or item.get("question_es") or "")
+        options = item.get("options") or item.get("options_es") or {}
         a = clean_text(options.get("A", ""))
         b = clean_text(options.get("B", ""))
         c = clean_text(options.get("C", ""))
@@ -52,14 +59,27 @@ def to_study_script(items: list[dict], exam_filter: str | None) -> str:
         if not q:
             continue
 
-        lines.append(f"Pregunta {i}. {q}")
-        lines.append(f"Opción A. {a}")
-        lines.append(f"Opción B. {b}")
-        lines.append(f"Opción C. {c}")
-        lines.append(f"Opción D. {d}")
-        if correct:
-            lines.append(f"Respuesta correcta. {correct}.")
-        lines.append("Siguiente pregunta.")
+        spoken_idx += 1
+
+        if mode == "correct-only":
+            lines.append(f"Question {spoken_idx}. {q}")
+            if correct and options.get(correct):
+                corr_text = clean_text(options.get(correct, ""))
+                lines.append(f"Correct answer: {correct}. {corr_text}")
+            elif correct:
+                lines.append(f"Correct answer: {correct}.")
+            else:
+                lines.append("Correct answer not available.")
+            lines.append("Next question.")
+        else:
+            lines.append(f"Question {spoken_idx}. {q}")
+            lines.append(f"Option A. {a}")
+            lines.append(f"Option B. {b}")
+            lines.append(f"Option C. {c}")
+            lines.append(f"Option D. {d}")
+            if correct:
+                lines.append(f"Correct answer. {correct}.")
+            lines.append("Next question.")
 
     return "\n".join(lines)
 
@@ -93,7 +113,7 @@ async def synthesize_chunks(chunks: list[str], voice: str, rate: str, pitch: str
         communicate = edge_tts.Communicate(text=chunk, voice=voice, rate=rate, pitch=pitch)
         await communicate.save(str(out))
         out_files.append(out)
-        print(f"Chunk {i}/{len(chunks)} listo")
+        print(f"Chunk {i}/{len(chunks)} ready")
     return out_files
 
 
@@ -104,34 +124,35 @@ def concat_mp3(parts: list[Path], output_file: Path) -> None:
 
 
 async def main() -> None:
-    parser = argparse.ArgumentParser(description="Genera audio MP3 de estudio desde questions_with_marks_es.json")
-    parser.add_argument("--input", default="questions_with_marks_es.json", help="Ruta del JSON de entrada")
-    parser.add_argument("--output", default="pmp_study_es.mp3", help="Nombre del MP3 de salida")
-    parser.add_argument("--voice", default="es-CO-SalomeNeural", help="Voz Edge TTS")
-    parser.add_argument("--rate", default="+0%", help="Velocidad, ej: +10%")
-    parser.add_argument("--pitch", default="+0Hz", help="Tono, ej: +0Hz")
-    parser.add_argument("--exam", default=None, help="Filtra por examen exacto, ej: 'Examen 1'")
+    parser = argparse.ArgumentParser(description="Generate study MP3 from questions JSON")
+    parser.add_argument("--input", default="data/pmbok-7/processed/questions_with_marks.json", help="Input JSON path")
+    parser.add_argument("--output", default="data/pmbok-7/audio/full/pmp_study_en_correct_only.mp3", help="Output MP3 file")
+    parser.add_argument("--voice", default="en-US-AriaNeural", help="Edge TTS voice")
+    parser.add_argument("--rate", default="+0%", help="Rate, e.g. +10%")
+    parser.add_argument("--pitch", default="+0Hz", help="Pitch, e.g. +0Hz")
+    parser.add_argument("--exam", default=None, help="Exact exam filter, e.g. 'Examen 1'")
+    parser.add_argument("--mode", choices=["full", "correct-only"], default="correct-only", help="Narration mode")
     args = parser.parse_args()
 
     input_path = Path(args.input)
     if not input_path.exists():
-        raise SystemExit(f"No existe: {input_path}")
+        raise SystemExit(f"Not found: {input_path}")
 
     items = json.loads(input_path.read_text(encoding="utf-8"))
-    script = to_study_script(items, args.exam)
-    script_file = Path("study_script_es.txt")
+    script = to_study_script(items, args.exam, args.mode)
+    script_file = Path(args.output).parent / "study_script_en.txt"
     script_file.write_text(script, encoding="utf-8")
-    print(f"Script de estudio guardado en {script_file}")
+    print(f"Study script saved to {script_file}")
 
     chunks = split_chunks(script, max_chars=2500)
     if not chunks:
-        raise SystemExit("No hay contenido para sintetizar.")
+        raise SystemExit("No content to synthesize.")
 
     tmp_dir = Path(".tts_tmp")
     parts = await synthesize_chunks(chunks, args.voice, args.rate, args.pitch, tmp_dir)
     output_path = Path(args.output)
     concat_mp3(parts, output_path)
-    print(f"MP3 generado: {output_path}")
+    print(f"MP3 generated: {output_path}")
 
 
 if __name__ == "__main__":

@@ -1,4 +1,5 @@
 from pathlib import Path
+import argparse
 import base64
 import json
 import time
@@ -6,8 +7,6 @@ from urllib import request, error
 
 
 BASE_DIR = Path(".")
-INPUT_DIRS = [BASE_DIR / "pmp_1_pages", BASE_DIR / "pmp_2_pages"]
-OUTPUT_SUFFIX = "_txt"
 VISION_URL = "https://vision.googleapis.com/v1/images:annotate"
 BATCH_SIZE = 8
 
@@ -82,19 +81,28 @@ def extract_text(item: dict) -> str:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Run Google Vision OCR for a PMBOK dataset")
+    parser.add_argument("--version", default="pmbok-7", choices=["pmbok-7", "pmbok-8"])
+    args = parser.parse_args()
+
+    dataset_dir = BASE_DIR / "data" / args.version
+    input_dirs = [
+        dataset_dir / "source" / "pages" / "exam-1",
+        dataset_dir / "source" / "pages" / "exam-2",
+    ]
     env = load_env(BASE_DIR / ".env")
     api_key = env.get("GOOGLE_API_KEY", "").strip()
     if not api_key or "PASTE_YOUR" in api_key:
         raise SystemExit("Set GOOGLE_API_KEY in .env and retry.")
 
     total_written = 0
-    for in_dir in INPUT_DIRS:
+    for in_dir in input_dirs:
         if not in_dir.exists():
             print(f"[WARN] Missing input directory: {in_dir}")
             continue
 
         images = sorted(in_dir.glob("*.png"))
-        out_dir = BASE_DIR / f"{in_dir.name}{OUTPUT_SUFFIX}"
+        out_dir = dataset_dir / "source" / "ocr" / in_dir.name
         out_dir.mkdir(parents=True, exist_ok=True)
         print(f"Processing {in_dir.name}: {len(images)} images -> {out_dir.name}")
 
